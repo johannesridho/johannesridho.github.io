@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Jo]]></title><description><![CDATA[Jo's Personal Website]]></description><link>http://localhost:8000</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 01 May 2020 15:47:37 GMT</lastBuildDate><item><title><![CDATA[Aident]]></title><description><![CDATA[Aident detects crime behaviours and recognises criminal suspects in videos using AWS technology. This project is 
+awarded as the 1st place…]]></description><link>http://localhost:8000/aident/</link><guid isPermaLink="false">http://localhost:8000/aident/</guid><pubDate>Wed, 31 Jan 2001 16:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Aident detects crime behaviours and recognises criminal suspects in videos using AWS technology. This project is
+awarded as the 1st place winner at AWS Hackdays 2019.&lt;/p&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 62.5%; position: relative; height: 0; overflow: hidden; margin-bottom: 2em&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/ouTdvoKeZaE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;p&gt;Checkout the code &lt;a href=&quot;https://github.com/johannesridho/aident&quot;&gt;here&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Comet]]></title><description><![CDATA[Comet is an offline payment solution that leverages the power of blockchain. 
+This project is selected as one of the top 4 projects globally…]]></description><link>http://localhost:8000/comet/</link><guid isPermaLink="false">http://localhost:8000/comet/</guid><pubDate>Sun, 31 Dec 2000 16:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/173738f49e942647fd96f0553db9e164/d126d/comet.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 26.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAAAsSAAALEgHS3X78AAABMklEQVQY01WQ7UrCUBzGvYgy021urrOzzan0BkUQRBD1tRekwLZcy7QsmxERsiyz6FvURWRJ3Ud1UU/nnDLow+E5L5zf/8cTS+sUfKljBiSWWUIwTXUobD+SUjA8KiH+m/ycVDTEk7K4S0gqhhIplmn2n3MMxAYwDrAogTcpo+rIcLQM3KCCRtiEW97FcXiKrZKLxaUVbO/4qB7U4e/toxW1xbuk6gIa47ABdKGgIZiSsWYyYK6A6KqDkldGp3uL9vUN+m/v+Pj8wnPvBb3XvhjQii6xulEUlhoxf4DcLmsRLE+omLXZJKausGln5xfCgGf37h5HJ03UGyEqtUM8PD7B8wOsFzcxMzcvqvhnyIGGYUAWthRKhoBYDkwnD53aIvkd7493Zdg52PlxZkX/+uP5DXl6rTbkmGDxAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+        alt=&quot;comet&quot;
+        title=&quot;&quot;
+        src=&quot;/static/173738f49e942647fd96f0553db9e164/5a190/comet.png&quot;
+        srcset=&quot;/static/173738f49e942647fd96f0553db9e164/772e8/comet.png 200w,
+/static/173738f49e942647fd96f0553db9e164/e17e5/comet.png 400w,
+/static/173738f49e942647fd96f0553db9e164/5a190/comet.png 800w,
+/static/173738f49e942647fd96f0553db9e164/c1b63/comet.png 1200w,
+/static/173738f49e942647fd96f0553db9e164/29007/comet.png 1600w,
+/static/173738f49e942647fd96f0553db9e164/d126d/comet.png 1927w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Comet is an offline payment solution that leverages the power of blockchain.
+This project is selected as one of the top 4 projects globally at UnitedByHCL Hackathon 2017 in Blockchain category.
+Comet consists of an Android app built with
+Kotlin, a frontend web built with React JS, a backend built with Node JS, and a blockchain network built with Ethereum test network.&lt;/p&gt;</content:encoded></item></channel></rss>
