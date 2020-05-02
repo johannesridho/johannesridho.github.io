@@ -43,10 +43,16 @@ class Header extends React.Component {
                 alt={config.siteTitle}
               />
             </div>
-            <div className="type">
-              <h1>{config.headerTitle}</h1>
-              <h2>{config.headerSubTitle}</h2>
-            </div>
+            {(() => {
+              if (this.props.path !== "/") {
+                return (
+                  <div className="type">
+                    <h1>{config.headerTitle}</h1>
+                    <h2>{config.headerSubTitle}</h2>
+                  </div>
+                );
+              }
+            })()}
           </Link>
           <FontLoadedContext.Consumer>
             {loaded => (
@@ -126,6 +132,7 @@ class Header extends React.Component {
             .homepage & {
               height: 60px;
               width: 60px;
+              margin: 0;
             }
 
             img {
@@ -166,6 +173,16 @@ class Header extends React.Component {
               }
               h2 {
                 color: ${theme.header.logotype.h2.homepage.color};
+              }
+            }
+          }
+
+          @below tablet {
+            .header.homepage {
+              height: 140px;
+              .logo {
+                height: 100px;
+                width: 100px;
               }
             }
           }
