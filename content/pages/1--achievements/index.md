@@ -6,7 +6,7 @@ menuTitle: Achievements
 ### FOSSASIA Summit 2020 
 
 <iframe width="1440" height="900" src="https://www.youtube.com/embed/lH1kYKF1V0E?t=4" frameborder="0" allow="accelerometer;
-autoplay=1; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In March 2020, I gave a talk with title "High Performance Location-based Restaurant Campaigns in Foodpanda" in 
 FOSSASIA Summit. Our service can handle more than 400 thousands requests per minute, around 17 times more than the 

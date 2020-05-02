@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: "Jo", // <title>
   shortSiteTitle: "Jo", // <title> ending for posts and pages
   siteDescription: "Jo's Personal Website",
-  siteUrl: "http://localhost:8000",
+  siteUrl: "https://johannesridho.github.io",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
@@ -31,5 +31,5 @@ module.exports = {
   gravatarImgMd5: "",
 
   // social
-  authorSocialLinks: { name: "github", url: "https://github.com/johannesridho" },
+  authorSocialLinks: { name: "github", url: "https://github.com/johannesridho" }
 };

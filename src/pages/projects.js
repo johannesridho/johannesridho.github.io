@@ -39,6 +39,12 @@ const ProjectPage = props => {
     projectList.push([key, projects[key]]);
   }
 
+  const data = {
+    frontmatter: {
+      title: "Projects"
+    }
+  };
+
   return (
     <React.Fragment>
       <ThemeContext.Consumer>
@@ -52,7 +58,7 @@ const ProjectPage = props => {
         )}
       </ThemeContext.Consumer>
 
-      <Seo facebook={facebook} />
+      <Seo data={data} facebook={facebook} />
     </React.Fragment>
   );
 };
