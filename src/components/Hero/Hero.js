@@ -11,10 +11,16 @@ const Hero = props => {
       <section className="hero">
         <h1> Johannes Ridho Tumpuan Parlindungan </h1>
         <p>
-          A software engineer experienced in building things using Go, Java with Spring Framework, Python, Node JS, Typescript, Ethereum blockchain development, and data engineering with Google Cloud Platform
+          A software engineer experienced in building things using Go, Java with Spring Framework,
+          Python, Node JS, Typescript, Ethereum blockchain development, and data engineering with
+          Google Cloud Platform
         </p>
         <h1>
-          <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/johanridho">
+          <a
+            target="_blank"
+            rel="noopener noreferrer"
+            href="https://www.linkedin.com/in/johanridho"
+          >
             <FaLinkedin size={30} />
           </a>
           <a target="_blank" rel="noopener noreferrer" href="https://github.com/johannesridho">
