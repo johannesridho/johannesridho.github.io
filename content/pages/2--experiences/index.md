@@ -4,20 +4,20 @@ menuTitle: Experiences
 ---
 
 ### Delivery Hero - Foodpanda & Foodora (2019 - now)
-Delivery Hero (https://www.deliveryhero.com) is one of the leading global online food ordering 
+[Delivery Hero](https://www.deliveryhero.com) is one of the leading global online food ordering 
 and delivery marketplaces. It processes more than 3 million orders per day, partnering with 
 over 500,000 restaurants and a fleet of riders. 
 It operates across Europe, Latin America, Asia-Pacific, the Middle East and North Africa.
 
-Here, I'm currently working on the backend for campaign related features inside Foodpanda (https://www.foodpanda.com) 
-and Foodora (https://www.foodora.com) using Go, Redis, DynamoDB, Kubernetes, 
+Here, I'm currently working on the backend for campaign related features inside [Foodpanda](https://www.foodpanda.com) 
+and [Foodora](https://www.foodora.com) using Go, Redis, DynamoDB, Kubernetes, 
 with Amazon Web Service as our main infrastructure. Our main service can handle more than 400 thousand 
 requests per minute. 
 
 
 ### Call Levels (2018 - 2019)
 
-Call Levels (https://www.call-levels.com) is a market monitoring mobile application, that services more than 500 
+[Call Levels](https://www.call-levels.com) is a market monitoring mobile application, that services more than 500 
 thousand investors globally. 
 
 ![CL](./call-levels.jpg)
@@ -36,9 +36,9 @@ GDP (Global Digital Prima) Labs, founded in 2012, is a software product developm
 organization based in Indonesia.
 It's main goal is to help sister companies and incubate startups.
 
-In GDP Labs, I was mainly working on two big projects from Kaskus (https://kaskus.co.id),
-the biggest online forum in Indonesia. Kaskus Big Data project and Kaspay project (https://kaspay.com), 
-a fintech product by Kaskus. 
+In GDP Labs, I was mainly working on two big projects from [Kaskus](https://kaskus.co.id),
+the biggest online forum in Indonesia. The projects are 
+Kaskus Big Data and [Kaspay](https://kaspay.com). 
  
 #### Kaskus Big Data
 
