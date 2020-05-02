@@ -9,8 +9,8 @@ menuTitle: Achievements
 autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In March 2020, I gave a talk with title "High Performance Location-based Restaurant Campaigns in Foodpanda" in 
-FOSSASIA Summit. Our service can handle more than 400 thousands requests per minute, around 17 times more than the 
-real peak throughput, which is 23.7 thousands requests per minute. 
+FOSSASIA Summit. Our service can handle more than 400 thousand requests per minute, around 17 times more than the 
+real peak throughput, which is 23.7 thousand requests per minute. 
 
 
 ### Facebook F8 Hackathon 2019
