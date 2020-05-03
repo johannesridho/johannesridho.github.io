@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Jo]]></title><description><![CDATA[Jo's Personal Website]]></description><link>https://johannesridho.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 03 May 2020 10:00:56 GMT</lastBuildDate><item><title><![CDATA[Aident]]></title><description><![CDATA[Aident detects crime behaviours and recognises criminal suspects in videos using AWS technology. This project is 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Jo]]></title><description><![CDATA[Jo's Personal Website]]></description><link>https://johannesridho.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 03 May 2020 17:30:49 GMT</lastBuildDate><item><title><![CDATA[Aident]]></title><description><![CDATA[Aident detects crime behaviours and recognises criminal suspects in videos using AWS technology. This project is 
 awarded as the 1st place…]]></description><link>https://johannesridho.github.io/aident/</link><guid isPermaLink="false">https://johannesridho.github.io/aident/</guid><pubDate>Fri, 30 Nov 2001 16:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Aident detects crime behaviours and recognises criminal suspects in videos using AWS technology. This project is
 awarded as the 1st place winner at AWS Hackdays 2019.&lt;/p&gt;
 &lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 62.5%; position: relative; height: 0; overflow: hidden; margin-bottom: 2em&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/ouTdvoKeZaE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
@@ -42,7 +42,85 @@ This project is selected as one of the top 4 projects globally…]]></descriptio
 &lt;p&gt;Comet is an offline payment solution that leverages the power of blockchain.
 This project is selected as one of the top 4 projects globally at UnitedByHCL Hackathon 2017 in Blockchain category.
 Comet consists of an Android app built with
-Kotlin, a frontend web built with React JS, a backend built with Node JS, and a blockchain network built with Ethereum test network.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gasing Battle]]></title><description><![CDATA[Gasing Battle is an Android game where the player controls a Gasing, 
+Kotlin, a frontend web built with React JS, a backend built with Node JS, and a blockchain network built with Ethereum test network.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gasing Evo]]></title><description><![CDATA[Gasing EVO is an action arcade game for mobile and PC made 
+to mimic Indonesian traditional game “Gasing”. 
+The game has many features…]]></description><link>https://johannesridho.github.io/gasing-evo/</link><guid isPermaLink="false">https://johannesridho.github.io/gasing-evo/</guid><pubDate>Wed, 31 Jan 2001 16:00:00 GMT</pubDate><content:encoded>&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 2em&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/e_IJqNmhdGA&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;p&gt;Gasing EVO is an action arcade game for mobile and PC made
+to mimic Indonesian traditional game “Gasing”.
+The game has many features including the multiplayer mode,
+voice command, and remote play. &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b22569697c45daee9c960b2af89804b4/5a190/gasing-evo-ultimate.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 42%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACRElEQVQozw3Qy08ScADA8R+QgSKgaLyRlyAvAXmJgAmIzFFKF01tpVmZPbZmOmvWId06WGvTQ2ur9dhatjq4HrOaOXO6Vofa2jp0qP6F/oVv3L6nz+Er7sRkrKRl3M3VMB+Q0utsYKyYYDJhphjzE3db2djZ4dPnPfJBOym7jiOpCKVEgKTHzGAmxHRflIV0C2f8WsRSVsHtXik3s1IOm6V4FYIek5yCR0c24CQXaePpizU2tz/S3lxHR6uVTIefQ5kIlVSAXJuJoZiTS0k75706xPWintPhWtJagVkpxa5vwFEvwW/UYD2gZiDUwu7uFnvfvzLZn6HTbiBu1xM1NxGyG4nZDIRdFvpiAaLVFplGgVtZxWolNMqlaDVK6hQ1mNRyHCoJw0E9716/4v7qMj/uzbB1Y5TZXh9D+QQ9yQh+l42w102o1UaX24KwKyXUyQS1UkH9PoHBqMNp0REy1FH2NjMzmOTK5SnO9qd4eDLHv2dz/L01wrflcdbnh7laCnAi7qDgbSEXbkX4GmUctCgY8Wno8hjJJtqpJNwEzQ0ErVp8ejU5IdArJEx2GPh5IcnvhSK/5rp5P9HBg7KLxxUPqyUXx8JmxFxUxdqAlbdjPub72qhkQ4xELThVUtT7BSaVnFL1ZcRjI2NS8GYizsaojz/XSnyZLbLYbWMp72Cl3MZstwNxMazhUdnGy6Nenp/L025UY1LK0FYxp05DwqVnuuBltFKks0mwPZ1mcyrF+vEwH8bDLBacLCQtnEo6eDLUzn8DqxbiM+zuqQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+        alt=&quot;gasing-evo-ultimate&quot;
+        title=&quot;&quot;
+        src=&quot;/static/b22569697c45daee9c960b2af89804b4/5a190/gasing-evo-ultimate.png&quot;
+        srcset=&quot;/static/b22569697c45daee9c960b2af89804b4/772e8/gasing-evo-ultimate.png 200w,
+/static/b22569697c45daee9c960b2af89804b4/e17e5/gasing-evo-ultimate.png 400w,
+/static/b22569697c45daee9c960b2af89804b4/5a190/gasing-evo-ultimate.png 800w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Gasing Evo was developed using
+Unity Game Engine with C# programming language.
+The game was nominated for “Best Student Game” in
+Indonesia ICT Awards 2014.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/30c156925af2091af3bcda75c199a860/21b4d/gasing-evo-menu.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.49999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAC3ElEQVQoz5WQSWgTYRTH3/u+ycRO02maTCaTZZpMmqRJXVLb2DZ1aa1gW8WDuLQoNdatKYjFBRFxx7Yi6EURtWhvIriAHtSLetabFxEULB2Xg4poqVJM85wUFT364M/3573v/+Px4LQCTy974P1oGMb3edDsrQDzsBPMU15m3tL52JUymLihwNAJNxy/4IaJUR1eDwXB3CBb/zQ0T2pg3jRw/Go5vLvmgmewVsb3h1Sgs1GZRqo4HahS6KYGNFzXRucal9KXGNDLmP1Su4Od3+8COlXjo8NNaRqon00XDTfdDXI6E5hFz2MCPY8Kn2HAw992lgF1JxTabdhpTdxFW6tl6o5oNDjHS4/mO+hRXdnIXpVf6JaBVoU91J+O0Zq5OnVVq9QTlOhAVKLbKZkepByfYI8ML1bY4FvGDl+bGHyo5TAeRHizSADzeiWMPY7A5BMDjh2U4VCXCJMZAcZarVkDgFktWuLwcdgPX+9XweS9ELyGZsDyVht3ywBS0qcubjN8AwsN/46GSi2XkXluu5/17wqx3tUB3Lw+gP3NFTwnMSFnZ0KfBGynE1j9HVFw0DzRTbWiE4r1kGjmbY9oRzsSQVoyO1RoS+hU4xSoxcMoG0HaWGkphLQuyCgkIdkZkoiWGPbC37W5BKBLr7AVfU9EOdoe9lJzXJ9qS+qFZdqsQl+SFY4vtk3n5vLp9TorLHVhIVSC04qIPyQLKnG2tZhtKGXCq6hlGlMqpKuDQrGZTuhHWuIBWmj4vi9P6vkFnpL8Sg3zvVUs36iw/BIF8x0q5lU75iWOUwJjxBC3FLOMMT6zYSrihfqIfwZYa/gHW5Ih6oj7qTMRoECpjVQRKV2OFCtFSpUzqilDctqQbNZ2dhsnC9RXzPLfwEqXAmkjgEVfF/anMiFvX2fc15MJq1mRsywgZt12zFqQbNTBsh7LW3fLcsRNAmfbLFDsFxD/uWVK1/5t/EdZ4D/Zn8LZ3OKKFf93AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+        alt=&quot;gasing-evo-menu&quot;
+        title=&quot;&quot;
+        src=&quot;/static/30c156925af2091af3bcda75c199a860/5a190/gasing-evo-menu.png&quot;
+        srcset=&quot;/static/30c156925af2091af3bcda75c199a860/772e8/gasing-evo-menu.png 200w,
+/static/30c156925af2091af3bcda75c199a860/e17e5/gasing-evo-menu.png 400w,
+/static/30c156925af2091af3bcda75c199a860/5a190/gasing-evo-menu.png 800w,
+/static/30c156925af2091af3bcda75c199a860/c1b63/gasing-evo-menu.png 1200w,
+/static/30c156925af2091af3bcda75c199a860/21b4d/gasing-evo-menu.png 1280w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gasing Battle]]></title><description><![CDATA[Gasing Battle is an Android game where the player controls a Gasing, 
 a traditional toy from Indonesia, to battle with another player 
 by…]]></description><link>https://johannesridho.github.io/gasing-battle/</link><guid isPermaLink="false">https://johannesridho.github.io/gasing-battle/</guid><pubDate>Sun, 31 Dec 2000 16:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
