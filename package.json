@@ -56,8 +56,8 @@
   ],
   "scripts": {
     "build": "gatsby build",
-    "deploy": "gatsby build && gh-pages -d public -b master",
-    "develop": "gatsby develop",
+    "deploy": "gatsby clean && gatsby build && gh-pages -d public -b master",
+    "develop": "gatsby clean && gatsby develop",
     "devhost": "gatsby develop --host 192.168.0.112",
     "format": "prettier --write 'src/**/*.js'",
     "lint-errors": "eslint src/**/*.{js,jsx} --quiet",

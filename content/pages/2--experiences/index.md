@@ -3,7 +3,7 @@ title: Experiences
 menuTitle: Experiences
 ---
 
-### Delivery Hero - Foodpanda & Foodora (2019 - now)
+### Delivery Hero - Foodpanda & Foodora (2019 - present)
 [Delivery Hero](https://www.deliveryhero.com) is one of the leading global online food ordering 
 and delivery marketplaces. It processes more than 3 million orders per day, partnering with 
 over 500,000 restaurants and a fleet of riders. 
