@@ -2,6 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 
 import { FaLinkedin, FaGithub } from "react-icons/fa/";
+import { FiMail } from "react-icons/fi/";
 
 const Hero = props => {
   const { backgrounds, theme } = props;
@@ -25,6 +26,9 @@ const Hero = props => {
           </a>
           <a target="_blank" rel="noopener noreferrer" href="https://github.com/johannesridho">
             <FaGithub size={30} />
+          </a>
+          <a href="mailto:johan.ridho@gmail.com">
+            <FiMail size={30} />
           </a>
         </h1>
       </section>
