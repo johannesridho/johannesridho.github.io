@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Jo]]></title><description><![CDATA[Jo's Personal Website]]></description><link>https://johannesridho.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 02 May 2020 13:59:59 GMT</lastBuildDate><item><title><![CDATA[Aident]]></title><description><![CDATA[Aident detects crime behaviours and recognises criminal suspects in videos using AWS technology. This project is 
-awarded as the 1st place…]]></description><link>https://johannesridho.github.io/aident/</link><guid isPermaLink="false">https://johannesridho.github.io/aident/</guid><pubDate>Wed, 31 Jan 2001 16:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Aident detects crime behaviours and recognises criminal suspects in videos using AWS technology. This project is
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Jo]]></title><description><![CDATA[Jo's Personal Website]]></description><link>https://johannesridho.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 03 May 2020 10:00:56 GMT</lastBuildDate><item><title><![CDATA[Aident]]></title><description><![CDATA[Aident detects crime behaviours and recognises criminal suspects in videos using AWS technology. This project is 
+awarded as the 1st place…]]></description><link>https://johannesridho.github.io/aident/</link><guid isPermaLink="false">https://johannesridho.github.io/aident/</guid><pubDate>Fri, 30 Nov 2001 16:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Aident detects crime behaviours and recognises criminal suspects in videos using AWS technology. This project is
 awarded as the 1st place winner at AWS Hackdays 2019.&lt;/p&gt;
 &lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 62.5%; position: relative; height: 0; overflow: hidden; margin-bottom: 2em&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/ouTdvoKeZaE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
 &lt;p&gt;Checkout the code &lt;a href=&quot;https://github.com/johannesridho/aident&quot;&gt;here&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Comet]]></title><description><![CDATA[Comet is an offline payment solution that leverages the power of blockchain. 
-This project is selected as one of the top 4 projects globally…]]></description><link>https://johannesridho.github.io/comet/</link><guid isPermaLink="false">https://johannesridho.github.io/comet/</guid><pubDate>Sun, 31 Dec 2000 16:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+This project is selected as one of the top 4 projects globally…]]></description><link>https://johannesridho.github.io/comet/</link><guid isPermaLink="false">https://johannesridho.github.io/comet/</guid><pubDate>Tue, 31 Jul 2001 16:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/static/173738f49e942647fd96f0553db9e164/d126d/comet.png&quot;
@@ -42,4 +42,52 @@ This project is selected as one of the top 4 projects globally…]]></descriptio
 &lt;p&gt;Comet is an offline payment solution that leverages the power of blockchain.
 This project is selected as one of the top 4 projects globally at UnitedByHCL Hackathon 2017 in Blockchain category.
 Comet consists of an Android app built with
-Kotlin, a frontend web built with React JS, a backend built with Node JS, and a blockchain network built with Ethereum test network.&lt;/p&gt;</content:encoded></item></channel></rss>
+Kotlin, a frontend web built with React JS, a backend built with Node JS, and a blockchain network built with Ethereum test network.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gasing Battle]]></title><description><![CDATA[Gasing Battle is an Android game where the player controls a Gasing, 
+a traditional toy from Indonesia, to battle with another player 
+by…]]></description><link>https://johannesridho.github.io/gasing-battle/</link><guid isPermaLink="false">https://johannesridho.github.io/gasing-battle/</guid><pubDate>Sun, 31 Dec 2000 16:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b8f35cbf27b9b027a6bb7825c3c898d9/2bef9/gasing-battle-2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 38.99999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAAAsTAAALEwEAmpwYAAACk0lEQVQozwGIAnf9AEqg2VROlMtVHLv/RUbc5zs/5vtXau//VJL0/0nhuH0687RyVe20dVP9tmxOZ4J3NzWIpVU+nsFTLYSnTzm7zDhX5epScuXrUqPu71iY6+sgANq2wf/jmJ//VaLa3FDb7Lyg4dL/vdvE/4Td3+fOq3m4/Ktu/+6uaf/4rWH4V21orx1Yef8pY4H/GVFz/Deqv7Jf5/X/cOPw/4D1//9t3eZmAP+2sf//v7f/i5q+1WDX7rbVw5//3LeK/2/Ex9/Frnuy9KJU/+WhWP/9qVTwUmpoqQA3X/8KQGT+AzZa80Sju6x14/j7bdnv+lLc9v9IzuViALuAk//Jmaj/Vq7m1kq+5LdJkL//SYS1/yqj0uDMr3az86FR/+WgWP/tqmTxVXp+qgZTgv8QUnv/CUVq9D2gvaxh1/f8ctLv+1HQ+P8qvuNjANC+zf/Cv9T/5F1l1kat1bdYs9v/XaLJ/0Ox3+DOq3Oz86JS/+WhWf/fsHXxUHBzqgVGcf8WWYT/FE519DCXua02xO/9W8no+17T9/9Av+ZjAMX4//+7////uoGW01inyLSS3Pb/m9Dn/2TJ7N3Npm2x8KFS/+SfVv38qFHuVGhlqBhahv8URmv8CjhZ8S2QsKpBwef5Rb/e+FjK6f9sv9liALzQ7P/P5/7/6GBn42i2ycKh8v//sOz5/3zW6e3MqG+9/7Fi//GrY//3rGD/Wm5mtBBLZ/9QYXD/KE5m/zCVrbdi1ev/Rcbf/33Z6v+osbRpAKlTbF6qZ4Bf/x4WTYXR20JrzNlgbMjUXWHN21HSsXtA87V3Xuq1e1z7uXZXa4l4PTZ+iV5LkZhcQoeQWFyttj6A1+Jbc8vXWnTQ2WFUydUj/s2bP2/g+2UAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+        alt=&quot;gasing-battle&quot;
+        title=&quot;&quot;
+        src=&quot;/static/b8f35cbf27b9b027a6bb7825c3c898d9/5a190/gasing-battle-2.png&quot;
+        srcset=&quot;/static/b8f35cbf27b9b027a6bb7825c3c898d9/772e8/gasing-battle-2.png 200w,
+/static/b8f35cbf27b9b027a6bb7825c3c898d9/e17e5/gasing-battle-2.png 400w,
+/static/b8f35cbf27b9b027a6bb7825c3c898d9/5a190/gasing-battle-2.png 800w,
+/static/b8f35cbf27b9b027a6bb7825c3c898d9/2bef9/gasing-battle-2.png 1024w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Gasing Battle is an Android game where the player controls a Gasing,
+a traditional toy from Indonesia, to battle with another player
+by tilting the mobile phone.
+The goal of this game is to be a winner by keeping
+the Gasing spin as long as possible.
+A player can beat the opponent by hitting
+opponent’s Gasing or makes the opponent’s Gasing hit the wall
+until it’s Healthpoint is depleted.&lt;/p&gt;
+&lt;p&gt;Gasing Battle was published in Google Play Store with total users
+around 30 thousand in 3 years without any marketing effort.
+It is also awarded as the 3rd runner up in
+&lt;a href=&quot;https://stei.itb.ac.id/id/blog/2014/05/06/tim-stei-itb-juara-pertama-pada-kegiatan-samsung-student-ambassador-2014&quot;&gt;ITB Samsung App Challenge 2013&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Download the app &lt;a href=&quot;/2235cbd9e11e02451d4346cbcadb999f/gasing-battle.apk&quot;&gt;here&lt;/a&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
