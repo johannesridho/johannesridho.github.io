@@ -12,9 +12,6 @@ const Footer = props => {
       <style jsx>{`
         .footer {
           background: ${theme.color.neutral.white};
-          padding: ${theme.space.inset.default};
-          padding-top: 0;
-          padding-bottom: 120px;
 
           :global(ul) {
             list-style: none;
@@ -37,12 +34,6 @@ const Footer = props => {
                 content: "";
               }
             }
-          }
-        }
-
-        @from-width desktop {
-          .footer {
-            padding: 0 1em 1.5em;
           }
         }
       `}</style>
