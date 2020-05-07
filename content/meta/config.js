@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: "Jo", // <title>
   shortSiteTitle: "Jo", // <title> ending for posts and pages
   siteDescription: "Jo's Personal Website",
-  siteUrl: "https://johannesridho.github.io",
+  siteUrl: "https://jortp.com",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
@@ -20,7 +20,7 @@ module.exports = {
   manifestShortName: "Jo", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
-  manifestThemeColor: "#666",
+  manifestThemeColor: "#000000",
   manifestDisplay: "standalone",
 
   // gravatar
