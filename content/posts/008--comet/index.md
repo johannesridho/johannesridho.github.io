@@ -1,11 +1,11 @@
 ---
 title: Comet
 category: "hackathon"
-cover: comet-logo.png
+cover: comet.png
 author: Jo
 ---
 
-![comet](./comet.png)
+![comet](./comet-logo.png)
 
 Comet is an offline payment solution that leverages the power of blockchain. 
 This project is selected as one of the top 4 projects globally at UnitedByHCL Hackathon 2017 in Blockchain category. 

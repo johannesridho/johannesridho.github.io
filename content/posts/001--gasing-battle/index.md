@@ -1,7 +1,7 @@
 ---
 title: Gasing Battle
 category: "hackathon"
-cover: gasing-battle.jpg
+cover: gasing-battle.png
 author: Jo
 ---
 
