@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Jo]]></title><description><![CDATA[Jo's Personal Website]]></description><link>https://jortp.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 08 May 2020 14:28:35 GMT</lastBuildDate><item><title><![CDATA[Aident]]></title><description><![CDATA[Aident detects crime behaviours and recognises criminal suspects in videos using AWS technology. This project is 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Jo]]></title><description><![CDATA[Jo's Personal Website]]></description><link>https://jortp.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 08 May 2020 16:40:51 GMT</lastBuildDate><item><title><![CDATA[Aident]]></title><description><![CDATA[Aident detects crime behaviours and recognises criminal suspects in videos using AWS technology. This project is 
 awarded as the 1st place…]]></description><link>https://jortp.com/aident/</link><guid isPermaLink="false">https://jortp.com/aident/</guid><pubDate>Fri, 30 Nov 2001 16:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Aident detects crime behaviours and recognises criminal suspects in videos using AWS technology. This project is
 awarded as the 1st place winner at AWS Hackdays 2019.&lt;/p&gt;
 &lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 62.5%; position: relative; height: 0; overflow: hidden; margin-bottom: 2em&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/ouTdvoKeZaE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
@@ -42,7 +42,52 @@ This project is selected as one of the top 4 projects globally…]]></descriptio
 &lt;p&gt;Comet is an offline payment solution that leverages the power of blockchain.
 This project is selected as one of the top 4 projects globally at UnitedByHCL Hackathon 2017 in Blockchain category.
 Comet consists of an Android app built with
-Kotlin, a frontend web built with React JS, a backend built with Node JS, and a blockchain network built with Ethereum test network.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Clovero]]></title><description><![CDATA[Clovero is an Indonesian culture themed word guessing game run 
+Kotlin, a frontend web built with React JS, a backend built with Node JS, and a blockchain network built with Ethereum test network.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Ceki]]></title><description><![CDATA[Ceki is an application that simplify payment. 
+This application was selected as one of the top 10 application 
+at Bank Rakyat Indonesia…]]></description><link>https://jortp.com/ceki/</link><guid isPermaLink="false">https://jortp.com/ceki/</guid><pubDate>Mon, 30 Apr 2001 16:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Ceki is an application that simplify payment.
+This application was selected as one of the top 10 application
+at Bank Rakyat Indonesia Hackathon 2016&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Qololo]]></title><description><![CDATA[Qololo is a marketplace website for art designer.
+It is my first attempt in doing a startup. 
+In the end, we have 89 users, 168 designs…]]></description><link>https://jortp.com/qololo/</link><guid isPermaLink="false">https://jortp.com/qololo/</guid><pubDate>Sat, 31 Mar 2001 16:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c8c4f6562f81d1de768a8e7fb16a5fa9/19bb3/how-it-works.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 62.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAABYlAAAWJQFJUiTwAAACVklEQVQ4y21Tu24TQRT1z1ABFSW0tEhU9LRUVIBoLEQKKHATBYmCSCCQUAhCAkJEQuzEj0Q4xokAC5xdO36tsde73vXOvh+HmfHb4Wqv5mpn5sw9Z87EQCOKIp6zEUYBnRjW0ahwfIIuEfmcbFYwcLowPQ1+6GKME5sF+tNLIlldhun2MT0oHILTUK0GMrXn0AYqulodDe2I/mvCC+wpICuC0MfHkzjiXy/i7qdzWMlfw3dpnS+yXR2G3eO1H3pwfQuOa0Ee1LElPEFL/8X3TwGjIanU71WsHTzEl3ICL7YeoNzJDamHAc/ZYB2xJK46qq1FygGqlSp0TefgJiHwPY8C+RMQts5zTZ62Z6BvSSCOAtVswvHIPGXXozQCKm5kcv3c0IBFx4BSnL00YnRASIdKIKM3OIVmStCtvzCd/tlL8Vwf9VoDQllEsyHNdbbogKG2A/wvYuNNoiBgL7ODg8Nd5Is5CMLJHBCv6ef6JtVOoZSb2CgvQbHqo/lwStkiNvLHeyiImzhufkZWeI390gf4bsQ1ZdTH1im03mLl23X87GwivnMeorI/8e0IkG6gvtwuvsRq4SZeFW9hrXgf2aMNeE5AreJAI23eAYtkZRmJ3FW8+XEbS7uXsC0mRoAzHTI2p7UKcgdppDMpZNM5dNvKhGo4AmPgzw5vIJ68gEfpy3icuYL10p0FwAiT03tyD22pDVVVZsyKiZZ+4CBVfYp3pXsoSu8hkyrVsjV3ebxD5iNmg4FNLUHfp0FH3erwS2DveAzI7GFYMixH40lslaYy0Zet+wfiw8/a56zM8gAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+        alt=&quot;how it works&quot;
+        title=&quot;&quot;
+        src=&quot;/static/c8c4f6562f81d1de768a8e7fb16a5fa9/5a190/how-it-works.png&quot;
+        srcset=&quot;/static/c8c4f6562f81d1de768a8e7fb16a5fa9/772e8/how-it-works.png 200w,
+/static/c8c4f6562f81d1de768a8e7fb16a5fa9/e17e5/how-it-works.png 400w,
+/static/c8c4f6562f81d1de768a8e7fb16a5fa9/5a190/how-it-works.png 800w,
+/static/c8c4f6562f81d1de768a8e7fb16a5fa9/c1b63/how-it-works.png 1200w,
+/static/c8c4f6562f81d1de768a8e7fb16a5fa9/29007/how-it-works.png 1600w,
+/static/c8c4f6562f81d1de768a8e7fb16a5fa9/19bb3/how-it-works.png 2066w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Qololo is a marketplace website for art designer.
+It is my first attempt in doing a startup.
+In the end, we have 89 users, 168 designs submitted, 3727 Twitter followers,
+2332 Instagram followers, 742 email subscriber, and 309 likes in Facebook.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Clovero]]></title><description><![CDATA[Clovero is an Indonesian culture themed word guessing game run 
 on Line chatbot platform. I built the chatbot with Spring Framework Java…]]></description><link>https://jortp.com/clovero/</link><guid isPermaLink="false">https://jortp.com/clovero/</guid><pubDate>Wed, 28 Feb 2001 16:00:00 GMT</pubDate><content:encoded>&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 2em&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/WfSYXDp796E&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
 &lt;p&gt;Clovero is an Indonesian culture themed word guessing game run
 on Line chatbot platform. I built the chatbot with Spring Framework Java 8.
