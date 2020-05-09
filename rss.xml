@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Jo]]></title><description><![CDATA[Jo's Personal Website]]></description><link>https://jortp.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 09 May 2020 09:20:40 GMT</lastBuildDate><item><title><![CDATA[Comet]]></title><description><![CDATA[Comet is an offline payment solution that leverages the power of blockchain. 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Jo]]></title><description><![CDATA[Jo's Personal Website]]></description><link>https://jortp.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 09 May 2020 11:20:17 GMT</lastBuildDate><item><title><![CDATA[Eyve]]></title><description><![CDATA[Eyve is built to protect the visually impaired in their daily life 
+with computer vision and voice recognition. 
+We got the 3rd place at AWS…]]></description><link>https://jortp.com/eyve/</link><guid isPermaLink="false">https://jortp.com/eyve/</guid><pubDate>Wed, 31 Dec 2031 16:00:00 GMT</pubDate><content:encoded>&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 62.5%; position: relative; height: 0; overflow: hidden; margin-bottom: 2em&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/z-6UOWPExp8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;p&gt;Eyve is built to protect the visually impaired in their daily life
+with computer vision and voice recognition.
+We got the 3rd place at AWS Hackdays Final Hackathon 2019 with this project. &lt;/p&gt;
+&lt;p&gt;Code: &lt;a href=&quot;https://github.com/Fakhri/eyve&quot;&gt;https://github.com/Fakhri/eyve&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Technologies: Serverless, Go, Javascript, Facebook Messenger,
+Amazon Web Service technologies (Rekognition, SageMaker, Elastic
+Beanstalk, S3, Lambda) &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Comet]]></title><description><![CDATA[Comet is an offline payment solution that leverages the power of blockchain. 
 This project is selected as one of the top 4 projects globally…]]></description><link>https://jortp.com/comet/</link><guid isPermaLink="false">https://jortp.com/comet/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -38,11 +47,15 @@ This project is selected as one of the top 4 projects globally…]]></descriptio
 &lt;p&gt;Comet is an offline payment solution that leverages the power of blockchain.
 This project is selected as one of the top 4 projects globally at UnitedByHCL Hackathon 2017 in Blockchain category.
 Comet consists of an Android app built with
-Kotlin, a frontend web built with React JS, a backend built with Node JS, and a blockchain network built with Ethereum test network.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Aident]]></title><description><![CDATA[Aident detects crime behaviours and recognises criminal suspects in videos using AWS technology. This project is 
+Kotlin, a frontend web built with React, a backend built with Node.js, and a blockchain network built with Ethereum test
+network.&lt;/p&gt;
+&lt;p&gt;Technologies: Blockchain, Web, Android, Node.js, React, Kotlin&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Aident]]></title><description><![CDATA[Aident detects crime behaviours and recognises criminal suspects in videos using AWS technology. This project is 
 awarded as the 1st place…]]></description><link>https://jortp.com/aident/</link><guid isPermaLink="false">https://jortp.com/aident/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;Aident detects crime behaviours and recognises criminal suspects in videos using AWS technology. This project is
-awarded as the 1st place winner at AWS Hackdays 2019.&lt;/p&gt;
+awarded as the 1st place winner at AWS Hackdays 2019 Indonesia.&lt;/p&gt;
 &lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 62.5%; position: relative; height: 0; overflow: hidden; margin-bottom: 2em&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/ouTdvoKeZaE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
-&lt;p&gt;Checkout the code &lt;a href=&quot;https://github.com/johannesridho/aident&quot;&gt;here&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Ceki]]></title><description><![CDATA[Ceki is an application that simplifies payment. The idea is to use QR code
+&lt;p&gt;Code: &lt;a href=&quot;https://github.com/johannesridho/aident&quot;&gt;https://github.com/johannesridho/aident&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Technologies: Web, Serverless, Go, Java, Javascript, Amazon Web Service technologies (Rekognition, SageMaker, Elastic
+Beanstalk, S3, Lambda, SNS, Lex) &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Ceki]]></title><description><![CDATA[Ceki is an application that simplifies payment. The idea is to use QR code
 for any products and then the user can just scan it to pay. 
 This…]]></description><link>https://jortp.com/ceki/</link><guid isPermaLink="false">https://jortp.com/ceki/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;Ceki is an application that simplifies payment. The idea is to use QR code
 for any products and then the user can just scan it to pay.
@@ -50,12 +63,12 @@ This application was selected as the 2nd place winner
 at BNI Hackfest Malang,
 top 10 at Bank Rakyat Indonesia Hackathon 2016,
 and top 10 at Jenius Hackathon.&lt;/p&gt;
-&lt;p&gt;Technologies: Node JS with Sails, React JS, Kotlin&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Novus]]></title><description><![CDATA[Novus is a new social network where people can see 
+&lt;p&gt;Technologies: Web, Android, Node.js with Sails, React, Kotlin&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Novus]]></title><description><![CDATA[Novus is a new social network where people can see 
 other people’s Augmented Reality contents that are attached to 
 the objects around their…]]></description><link>https://jortp.com/novus/</link><guid isPermaLink="false">https://jortp.com/novus/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bd9e142c507a457937f44837b6b50ecf/fc99f/logotype.png&quot;
+    href=&quot;/static/edb249a742f7f236a8a8b8e11f96e632/9c4fe/logotype.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -67,20 +80,20 @@ the objects around their…]]></description><link>https://jortp.com/novus/</link
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 22.499999999999996%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAACE3AAAhNwEzWJ96AAABCElEQVQY02NggALxacfFRBad3cN/+vV/9ttvdjOQC3i2/9HhOPl/D8uj/4/E5l38LzHj9H++vXd9QHICc/9YCsz+lyEw57+iwOz/CkA6B8ye818XiMWAWA8orwSk5YEYJO/PwLf8/yGeU///8xz88V81Z+9/hfxNR2GWARXn88/5HwxUGMU/+38qkLYC4kSg4UFAuhOIzUByAnP+uQPpACDOYBDp/f9fcN7P/1K1559o+MzdJ1e0XQ9mINAwF/45/5SAtBkQ2wJxIdBgU6BGISAuBls6538MEBcCsRwQhzHIFn75L97w+pBE021RmEFy5dsY4YbO/s+AxOZHDzKgL5iALuSCGs4DABBgiDUt4sssAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 25.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAACE4AAAhOAFFljFgAAABFElEQVQY042Qu0oDURiE04iNhS9g6zP4GLbWdjbiG9gJAUECAQux8wZKUBBRghcIYuMlQZQk6GpiXFhDNonmsslmPs/uioqVA3M4/z8wZ87EJAEBDbo9knmH6WeXjOdHO37p/0AsOD76YsmByVKXoeQFo6lbLH+ABnBWEeV3aHritALVDtS74BraLXP3ovmuJqymAkMxnzPOB4bpOiNTm8SPiuFrV45IZMWeBVtFsWuJnQexllc47z9B5pVQXy9EWqzkwtiix/Byh4mFa+biJ9Ta/dDwsSEuTfJcNUgKq/dRiuMXcW6LkkmeyMLNG6TLYqNgQq0cthmftZnZbtBo+99dDBT1Jv30F3zvL5pfu1ZPmJb4BC0KbMBZ16QOAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;Novus&quot;
         title=&quot;&quot;
-        src=&quot;/static/bd9e142c507a457937f44837b6b50ecf/5a190/logotype.png&quot;
-        srcset=&quot;/static/bd9e142c507a457937f44837b6b50ecf/772e8/logotype.png 200w,
-/static/bd9e142c507a457937f44837b6b50ecf/e17e5/logotype.png 400w,
-/static/bd9e142c507a457937f44837b6b50ecf/5a190/logotype.png 800w,
-/static/bd9e142c507a457937f44837b6b50ecf/c1b63/logotype.png 1200w,
-/static/bd9e142c507a457937f44837b6b50ecf/29007/logotype.png 1600w,
-/static/bd9e142c507a457937f44837b6b50ecf/fc99f/logotype.png 2702w&quot;
+        src=&quot;/static/edb249a742f7f236a8a8b8e11f96e632/5a190/logotype.png&quot;
+        srcset=&quot;/static/edb249a742f7f236a8a8b8e11f96e632/772e8/logotype.png 200w,
+/static/edb249a742f7f236a8a8b8e11f96e632/e17e5/logotype.png 400w,
+/static/edb249a742f7f236a8a8b8e11f96e632/5a190/logotype.png 800w,
+/static/edb249a742f7f236a8a8b8e11f96e632/c1b63/logotype.png 1200w,
+/static/edb249a742f7f236a8a8b8e11f96e632/29007/logotype.png 1600w,
+/static/edb249a742f7f236a8a8b8e11f96e632/9c4fe/logotype.png 2369w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -95,7 +108,17 @@ people to go outside and do offline interaction more
 with other people around their location. This also leads people to form
 a community based on content and interest around their location.
 My team built Novus at F8 Hackathon 2018.&lt;/p&gt;
-&lt;p&gt;Technologies: Augmented Reality, Unity3D, Vuforia, Facebook Login&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gasing Evo]]></title><description><![CDATA[Gasing EVO is an action arcade game for mobile and PC made 
+&lt;p&gt;Technologies: Augmented Reality, Android, Unity3D, Vuforia, Facebook Login&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Patrons]]></title><description><![CDATA[We reinvent the way to visualize and display financial data 
+by providing Personalized Virtual Experience Monitoring 
+using Virtual Reality…]]></description><link>https://jortp.com/patrons/</link><guid isPermaLink="false">https://jortp.com/patrons/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 62.5%; position: relative; height: 0; overflow: hidden; margin-bottom: 2em&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/84FZXeXRwjw&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;p&gt;We reinvent the way to visualize and display financial data
+by providing Personalized Virtual Experience Monitoring
+using Virtual Reality technology. This project is selected as
+one of the top 10 applications at F10 Hackathon,
+an international hackathon held by F10 in Singapore.&lt;/p&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 62.5%; position: relative; height: 0; overflow: hidden; margin-bottom: 2em&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/vOcFd6KMgco&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;p&gt;Code: &lt;a href=&quot;https://github.com/Fakhri/vr-trading-prototype&quot;&gt;https://github.com/Fakhri/vr-trading-prototype&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Technologies: Virtual Reality, Javascript, three.js&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gasing Evo]]></title><description><![CDATA[Gasing EVO is an action arcade game for mobile and PC made 
 to mimic Indonesian traditional game “Gasing”. 
 The game has many features…]]></description><link>https://jortp.com/gasing-evo/</link><guid isPermaLink="false">https://jortp.com/gasing-evo/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 2em&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/e_IJqNmhdGA&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
 &lt;p&gt;Gasing EVO is an action arcade game for mobile and PC made
@@ -135,9 +158,7 @@ voice command, and remote play. &lt;/p&gt;
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;Gasing Evo was developed using
-Unity Game Engine with C# programming language.
-The game was nominated for “Best Student Game” in
+&lt;p&gt;This game was nominated for “Best Student Game” in
 Indonesia ICT Awards 2014.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
@@ -173,7 +194,8 @@ Indonesia ICT Awards 2014.&lt;/p&gt;
   &lt;/span&gt;
   
   &lt;/a&gt;
-    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gasing Battle]]></title><description><![CDATA[Gasing Battle is an Android game where the player controls a Gasing, 
+    &lt;/p&gt;
+&lt;p&gt;Technologies: Android, Desktop, Unity3D, C#&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gasing Battle]]></title><description><![CDATA[Gasing Battle is an Android game where the player controls a Gasing, 
 a traditional toy from Indonesia, to battle with another player 
 by…]]></description><link>https://jortp.com/gasing-battle/</link><guid isPermaLink="false">https://jortp.com/gasing-battle/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;
   &lt;a
@@ -222,7 +244,7 @@ around 30 thousand in 3 years without any marketing effort.
 It is also awarded as the 3rd runner up in
 &lt;a href=&quot;https://stei.itb.ac.id/id/blog/2014/05/06/tim-stei-itb-juara-pertama-pada-kegiatan-samsung-student-ambassador-2014&quot;&gt;ITB Samsung App Challenge 2013&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Download the app &lt;a href=&quot;/2235cbd9e11e02451d4346cbcadb999f/gasing-battle.apk&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Technologies: Java, AndEngine&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Qololo]]></title><description><![CDATA[Qololo is a marketplace website for art designer.
+&lt;p&gt;Technologies: Android, Java, AndEngine&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Qololo]]></title><description><![CDATA[Qololo is a marketplace website for art designer.
 It is my first attempt in doing a startup. 
 In the end, we have 89 users, 168 designs…]]></description><link>https://jortp.com/qololo/</link><guid isPermaLink="false">https://jortp.com/qololo/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;
   &lt;a
@@ -263,8 +285,10 @@ In the end, we have 89 users, 168 designs…]]></description><link>https://jortp
 &lt;p&gt;Qololo is a marketplace website for art designer.
 It is my first attempt in doing a startup.
 In the end, we have 89 users, 168 designs submitted, 3727 Twitter followers,
-2332 Instagram followers, 742 email subscriber, and 309 likes in Facebook.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Clovero]]></title><description><![CDATA[Clovero is an Indonesian culture themed word guessing game run 
+2332 Instagram followers, 742 email subscriber, and 309 likes in Facebook.&lt;/p&gt;
+&lt;p&gt;Technologies: Web, Wordpress, PHP&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Clovero]]></title><description><![CDATA[Clovero is an Indonesian culture themed word guessing game run 
 on Line chatbot platform. I built the chatbot with Spring Framework Java…]]></description><link>https://jortp.com/clovero/</link><guid isPermaLink="false">https://jortp.com/clovero/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 2em&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/WfSYXDp796E&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
 &lt;p&gt;Clovero is an Indonesian culture themed word guessing game run
 on Line chatbot platform. I built the chatbot with Spring Framework Java 8.
-This app is selected as top 50 chatbot at Line Chatbot Competition 2017.&lt;/p&gt;</content:encoded></item></channel></rss>
+This app is selected as top 50 chatbot at Line Chatbot Competition 2017.&lt;/p&gt;
+&lt;p&gt;Technologies: Chatbot, Spring Framework, Java, MySQL &lt;/p&gt;</content:encoded></item></channel></rss>
