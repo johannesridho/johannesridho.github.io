@@ -11,3 +11,6 @@ awarded as the 1st place winner at AWS Hackdays 2019.
 <iframe width="1440" height="900" src="https://www.youtube.com/embed/ouTdvoKeZaE" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Checkout the code [here](https://github.com/johannesridho/aident)
+
+Technologies: Serverless, Go, Java, Javascript, Amazon Web Service technologies (Rekognition, SageMaker, Elastic 
+Beanstalk, S3, Lambda, SNS, Lex) 
