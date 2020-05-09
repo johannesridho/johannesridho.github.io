@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Jo]]></title><description><![CDATA[Jo's Personal Website]]></description><link>https://jortp.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 08 May 2020 16:40:51 GMT</lastBuildDate><item><title><![CDATA[Aident]]></title><description><![CDATA[Aident detects crime behaviours and recognises criminal suspects in videos using AWS technology. This project is 
-awarded as the 1st place…]]></description><link>https://jortp.com/aident/</link><guid isPermaLink="false">https://jortp.com/aident/</guid><pubDate>Fri, 30 Nov 2001 16:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Aident detects crime behaviours and recognises criminal suspects in videos using AWS technology. This project is
-awarded as the 1st place winner at AWS Hackdays 2019.&lt;/p&gt;
-&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 62.5%; position: relative; height: 0; overflow: hidden; margin-bottom: 2em&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/ouTdvoKeZaE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
-&lt;p&gt;Checkout the code &lt;a href=&quot;https://github.com/johannesridho/aident&quot;&gt;here&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Comet]]></title><description><![CDATA[Comet is an offline payment solution that leverages the power of blockchain. 
-This project is selected as one of the top 4 projects globally…]]></description><link>https://jortp.com/comet/</link><guid isPermaLink="false">https://jortp.com/comet/</guid><pubDate>Tue, 31 Jul 2001 16:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Jo]]></title><description><![CDATA[Jo's Personal Website]]></description><link>https://jortp.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 09 May 2020 09:20:40 GMT</lastBuildDate><item><title><![CDATA[Comet]]></title><description><![CDATA[Comet is an offline payment solution that leverages the power of blockchain. 
+This project is selected as one of the top 4 projects globally…]]></description><link>https://jortp.com/comet/</link><guid isPermaLink="false">https://jortp.com/comet/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/static/173738f49e942647fd96f0553db9e164/d126d/comet-logo.png&quot;
@@ -42,16 +38,24 @@ This project is selected as one of the top 4 projects globally…]]></descriptio
 &lt;p&gt;Comet is an offline payment solution that leverages the power of blockchain.
 This project is selected as one of the top 4 projects globally at UnitedByHCL Hackathon 2017 in Blockchain category.
 Comet consists of an Android app built with
-Kotlin, a frontend web built with React JS, a backend built with Node JS, and a blockchain network built with Ethereum test network.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Ceki]]></title><description><![CDATA[Ceki is an application that simplify payment. 
-This application was selected as one of the top 10 application 
-at Bank Rakyat Indonesia…]]></description><link>https://jortp.com/ceki/</link><guid isPermaLink="false">https://jortp.com/ceki/</guid><pubDate>Mon, 30 Apr 2001 16:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Ceki is an application that simplify payment.
-This application was selected as one of the top 10 application
-at Bank Rakyat Indonesia Hackathon 2016&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Qololo]]></title><description><![CDATA[Qololo is a marketplace website for art designer.
-It is my first attempt in doing a startup. 
-In the end, we have 89 users, 168 designs…]]></description><link>https://jortp.com/qololo/</link><guid isPermaLink="false">https://jortp.com/qololo/</guid><pubDate>Sat, 31 Mar 2001 16:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+Kotlin, a frontend web built with React JS, a backend built with Node JS, and a blockchain network built with Ethereum test network.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Aident]]></title><description><![CDATA[Aident detects crime behaviours and recognises criminal suspects in videos using AWS technology. This project is 
+awarded as the 1st place…]]></description><link>https://jortp.com/aident/</link><guid isPermaLink="false">https://jortp.com/aident/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;Aident detects crime behaviours and recognises criminal suspects in videos using AWS technology. This project is
+awarded as the 1st place winner at AWS Hackdays 2019.&lt;/p&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 62.5%; position: relative; height: 0; overflow: hidden; margin-bottom: 2em&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/ouTdvoKeZaE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;p&gt;Checkout the code &lt;a href=&quot;https://github.com/johannesridho/aident&quot;&gt;here&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Ceki]]></title><description><![CDATA[Ceki is an application that simplifies payment. The idea is to use QR code
+for any products and then the user can just scan it to pay. 
+This…]]></description><link>https://jortp.com/ceki/</link><guid isPermaLink="false">https://jortp.com/ceki/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;Ceki is an application that simplifies payment. The idea is to use QR code
+for any products and then the user can just scan it to pay.
+This application was selected as the 2nd place winner
+at BNI Hackfest Malang,
+top 10 at Bank Rakyat Indonesia Hackathon 2016,
+and top 10 at Jenius Hackathon.&lt;/p&gt;
+&lt;p&gt;Technologies: Node JS with Sails, React JS, Kotlin&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Novus]]></title><description><![CDATA[Novus is a new social network where people can see 
+other people’s Augmented Reality contents that are attached to 
+the objects around their…]]></description><link>https://jortp.com/novus/</link><guid isPermaLink="false">https://jortp.com/novus/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/c8c4f6562f81d1de768a8e7fb16a5fa9/19bb3/how-it-works.png&quot;
+    href=&quot;/static/bd9e142c507a457937f44837b6b50ecf/fc99f/logotype.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -63,20 +67,20 @@ In the end, we have 89 users, 168 designs…]]></description><link>https://jortp
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 62.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAABYlAAAWJQFJUiTwAAACVklEQVQ4y21Tu24TQRT1z1ABFSW0tEhU9LRUVIBoLEQKKHATBYmCSCCQUAhCAkJEQuzEj0Q4xokAC5xdO36tsde73vXOvh+HmfHb4Wqv5mpn5sw9Z87EQCOKIp6zEUYBnRjW0ahwfIIuEfmcbFYwcLowPQ1+6GKME5sF+tNLIlldhun2MT0oHILTUK0GMrXn0AYqulodDe2I/mvCC+wpICuC0MfHkzjiXy/i7qdzWMlfw3dpnS+yXR2G3eO1H3pwfQuOa0Ee1LElPEFL/8X3TwGjIanU71WsHTzEl3ICL7YeoNzJDamHAc/ZYB2xJK46qq1FygGqlSp0TefgJiHwPY8C+RMQts5zTZ62Z6BvSSCOAtVswvHIPGXXozQCKm5kcv3c0IBFx4BSnL00YnRASIdKIKM3OIVmStCtvzCd/tlL8Vwf9VoDQllEsyHNdbbogKG2A/wvYuNNoiBgL7ODg8Nd5Is5CMLJHBCv6ef6JtVOoZSb2CgvQbHqo/lwStkiNvLHeyiImzhufkZWeI390gf4bsQ1ZdTH1im03mLl23X87GwivnMeorI/8e0IkG6gvtwuvsRq4SZeFW9hrXgf2aMNeE5AreJAI23eAYtkZRmJ3FW8+XEbS7uXsC0mRoAzHTI2p7UKcgdppDMpZNM5dNvKhGo4AmPgzw5vIJ68gEfpy3icuYL10p0FwAiT03tyD22pDVVVZsyKiZZ+4CBVfYp3pXsoSu8hkyrVsjV3ebxD5iNmg4FNLUHfp0FH3erwS2DveAzI7GFYMixH40lslaYy0Zet+wfiw8/a56zM8gAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 22.499999999999996%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAACE3AAAhNwEzWJ96AAABCElEQVQY02NggALxacfFRBad3cN/+vV/9ttvdjOQC3i2/9HhOPl/D8uj/4/E5l38LzHj9H++vXd9QHICc/9YCsz+lyEw57+iwOz/CkA6B8ye818XiMWAWA8orwSk5YEYJO/PwLf8/yGeU///8xz88V81Z+9/hfxNR2GWARXn88/5HwxUGMU/+38qkLYC4kSg4UFAuhOIzUByAnP+uQPpACDOYBDp/f9fcN7P/1K1559o+MzdJ1e0XQ9mINAwF/45/5SAtBkQ2wJxIdBgU6BGISAuBls6538MEBcCsRwQhzHIFn75L97w+pBE021RmEFy5dsY4YbO/s+AxOZHDzKgL5iALuSCGs4DABBgiDUt4sssAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
-        alt=&quot;how it works&quot;
+        alt=&quot;Novus&quot;
         title=&quot;&quot;
-        src=&quot;/static/c8c4f6562f81d1de768a8e7fb16a5fa9/5a190/how-it-works.png&quot;
-        srcset=&quot;/static/c8c4f6562f81d1de768a8e7fb16a5fa9/772e8/how-it-works.png 200w,
-/static/c8c4f6562f81d1de768a8e7fb16a5fa9/e17e5/how-it-works.png 400w,
-/static/c8c4f6562f81d1de768a8e7fb16a5fa9/5a190/how-it-works.png 800w,
-/static/c8c4f6562f81d1de768a8e7fb16a5fa9/c1b63/how-it-works.png 1200w,
-/static/c8c4f6562f81d1de768a8e7fb16a5fa9/29007/how-it-works.png 1600w,
-/static/c8c4f6562f81d1de768a8e7fb16a5fa9/19bb3/how-it-works.png 2066w&quot;
+        src=&quot;/static/bd9e142c507a457937f44837b6b50ecf/5a190/logotype.png&quot;
+        srcset=&quot;/static/bd9e142c507a457937f44837b6b50ecf/772e8/logotype.png 200w,
+/static/bd9e142c507a457937f44837b6b50ecf/e17e5/logotype.png 400w,
+/static/bd9e142c507a457937f44837b6b50ecf/5a190/logotype.png 800w,
+/static/bd9e142c507a457937f44837b6b50ecf/c1b63/logotype.png 1200w,
+/static/bd9e142c507a457937f44837b6b50ecf/29007/logotype.png 1600w,
+/static/bd9e142c507a457937f44837b6b50ecf/fc99f/logotype.png 2702w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -84,16 +88,16 @@ In the end, we have 89 users, 168 designs…]]></description><link>https://jortp
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;Qololo is a marketplace website for art designer.
-It is my first attempt in doing a startup.
-In the end, we have 89 users, 168 designs submitted, 3727 Twitter followers,
-2332 Instagram followers, 742 email subscriber, and 309 likes in Facebook.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Clovero]]></title><description><![CDATA[Clovero is an Indonesian culture themed word guessing game run 
-on Line chatbot platform. I built the chatbot with Spring Framework Java…]]></description><link>https://jortp.com/clovero/</link><guid isPermaLink="false">https://jortp.com/clovero/</guid><pubDate>Wed, 28 Feb 2001 16:00:00 GMT</pubDate><content:encoded>&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 2em&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/WfSYXDp796E&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
-&lt;p&gt;Clovero is an Indonesian culture themed word guessing game run
-on Line chatbot platform. I built the chatbot with Spring Framework Java 8.
-This app is selected as top 50 chatbot at Line Chatbot Competition 2017.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gasing Evo]]></title><description><![CDATA[Gasing EVO is an action arcade game for mobile and PC made 
+&lt;p&gt;Novus is a new social network where people can see
+other people’s Augmented Reality contents that are attached to
+the objects around their location. We are hoping that Novus can drive
+people to go outside and do offline interaction more
+with other people around their location. This also leads people to form
+a community based on content and interest around their location.
+My team built Novus at F8 Hackathon 2018.&lt;/p&gt;
+&lt;p&gt;Technologies: Augmented Reality, Unity3D, Vuforia, Facebook Login&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gasing Evo]]></title><description><![CDATA[Gasing EVO is an action arcade game for mobile and PC made 
 to mimic Indonesian traditional game “Gasing”. 
-The game has many features…]]></description><link>https://jortp.com/gasing-evo/</link><guid isPermaLink="false">https://jortp.com/gasing-evo/</guid><pubDate>Wed, 31 Jan 2001 16:00:00 GMT</pubDate><content:encoded>&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 2em&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/e_IJqNmhdGA&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+The game has many features…]]></description><link>https://jortp.com/gasing-evo/</link><guid isPermaLink="false">https://jortp.com/gasing-evo/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 2em&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/e_IJqNmhdGA&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
 &lt;p&gt;Gasing EVO is an action arcade game for mobile and PC made
 to mimic Indonesian traditional game “Gasing”.
 The game has many features including the multiplayer mode,
@@ -171,7 +175,7 @@ Indonesia ICT Awards 2014.&lt;/p&gt;
   &lt;/a&gt;
     &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gasing Battle]]></title><description><![CDATA[Gasing Battle is an Android game where the player controls a Gasing, 
 a traditional toy from Indonesia, to battle with another player 
-by…]]></description><link>https://jortp.com/gasing-battle/</link><guid isPermaLink="false">https://jortp.com/gasing-battle/</guid><pubDate>Sun, 31 Dec 2000 16:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+by…]]></description><link>https://jortp.com/gasing-battle/</link><guid isPermaLink="false">https://jortp.com/gasing-battle/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/static/b8f35cbf27b9b027a6bb7825c3c898d9/2bef9/gasing-battle-2.png&quot;
@@ -217,4 +221,50 @@ until it’s Healthpoint is depleted.&lt;/p&gt;
 around 30 thousand in 3 years without any marketing effort.
 It is also awarded as the 3rd runner up in
 &lt;a href=&quot;https://stei.itb.ac.id/id/blog/2014/05/06/tim-stei-itb-juara-pertama-pada-kegiatan-samsung-student-ambassador-2014&quot;&gt;ITB Samsung App Challenge 2013&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Download the app &lt;a href=&quot;/2235cbd9e11e02451d4346cbcadb999f/gasing-battle.apk&quot;&gt;here&lt;/a&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;Download the app &lt;a href=&quot;/2235cbd9e11e02451d4346cbcadb999f/gasing-battle.apk&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Technologies: Java, AndEngine&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Qololo]]></title><description><![CDATA[Qololo is a marketplace website for art designer.
+It is my first attempt in doing a startup. 
+In the end, we have 89 users, 168 designs…]]></description><link>https://jortp.com/qololo/</link><guid isPermaLink="false">https://jortp.com/qololo/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c8c4f6562f81d1de768a8e7fb16a5fa9/19bb3/how-it-works.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 62.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAABYlAAAWJQFJUiTwAAACVklEQVQ4y21Tu24TQRT1z1ABFSW0tEhU9LRUVIBoLEQKKHATBYmCSCCQUAhCAkJEQuzEj0Q4xokAC5xdO36tsde73vXOvh+HmfHb4Wqv5mpn5sw9Z87EQCOKIp6zEUYBnRjW0ahwfIIuEfmcbFYwcLowPQ1+6GKME5sF+tNLIlldhun2MT0oHILTUK0GMrXn0AYqulodDe2I/mvCC+wpICuC0MfHkzjiXy/i7qdzWMlfw3dpnS+yXR2G3eO1H3pwfQuOa0Ee1LElPEFL/8X3TwGjIanU71WsHTzEl3ICL7YeoNzJDamHAc/ZYB2xJK46qq1FygGqlSp0TefgJiHwPY8C+RMQts5zTZ62Z6BvSSCOAtVswvHIPGXXozQCKm5kcv3c0IBFx4BSnL00YnRASIdKIKM3OIVmStCtvzCd/tlL8Vwf9VoDQllEsyHNdbbogKG2A/wvYuNNoiBgL7ODg8Nd5Is5CMLJHBCv6ef6JtVOoZSb2CgvQbHqo/lwStkiNvLHeyiImzhufkZWeI390gf4bsQ1ZdTH1im03mLl23X87GwivnMeorI/8e0IkG6gvtwuvsRq4SZeFW9hrXgf2aMNeE5AreJAI23eAYtkZRmJ3FW8+XEbS7uXsC0mRoAzHTI2p7UKcgdppDMpZNM5dNvKhGo4AmPgzw5vIJ68gEfpy3icuYL10p0FwAiT03tyD22pDVVVZsyKiZZ+4CBVfYp3pXsoSu8hkyrVsjV3ebxD5iNmg4FNLUHfp0FH3erwS2DveAzI7GFYMixH40lslaYy0Zet+wfiw8/a56zM8gAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+        alt=&quot;how it works&quot;
+        title=&quot;&quot;
+        src=&quot;/static/c8c4f6562f81d1de768a8e7fb16a5fa9/5a190/how-it-works.png&quot;
+        srcset=&quot;/static/c8c4f6562f81d1de768a8e7fb16a5fa9/772e8/how-it-works.png 200w,
+/static/c8c4f6562f81d1de768a8e7fb16a5fa9/e17e5/how-it-works.png 400w,
+/static/c8c4f6562f81d1de768a8e7fb16a5fa9/5a190/how-it-works.png 800w,
+/static/c8c4f6562f81d1de768a8e7fb16a5fa9/c1b63/how-it-works.png 1200w,
+/static/c8c4f6562f81d1de768a8e7fb16a5fa9/29007/how-it-works.png 1600w,
+/static/c8c4f6562f81d1de768a8e7fb16a5fa9/19bb3/how-it-works.png 2066w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Qololo is a marketplace website for art designer.
+It is my first attempt in doing a startup.
+In the end, we have 89 users, 168 designs submitted, 3727 Twitter followers,
+2332 Instagram followers, 742 email subscriber, and 309 likes in Facebook.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Clovero]]></title><description><![CDATA[Clovero is an Indonesian culture themed word guessing game run 
+on Line chatbot platform. I built the chatbot with Spring Framework Java…]]></description><link>https://jortp.com/clovero/</link><guid isPermaLink="false">https://jortp.com/clovero/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 2em&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/WfSYXDp796E&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;p&gt;Clovero is an Indonesian culture themed word guessing game run
+on Line chatbot platform. I built the chatbot with Spring Framework Java 8.
+This app is selected as top 50 chatbot at Line Chatbot Competition 2017.&lt;/p&gt;</content:encoded></item></channel></rss>
