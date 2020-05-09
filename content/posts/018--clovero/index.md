@@ -10,3 +10,5 @@ author: Jo
 Clovero is an Indonesian culture themed word guessing game run 
 on Line chatbot platform. I built the chatbot with Spring Framework Java 8. 
 This app is selected as top 50 chatbot at Line Chatbot Competition 2017.
+
+Technologies: Chatbot, Spring Framework, Java, MySQL 

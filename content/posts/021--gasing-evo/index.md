@@ -13,10 +13,10 @@ The game has many features including the multiplayer mode,
 voice command, and remote play. 
 
 ![gasing-evo-ultimate](./gasing-evo-ultimate.png)
-
-Gasing Evo was developed using 
-Unity Game Engine with C# programming language. 
-The game was nominated for "Best Student Game" in 
+ 
+This game was nominated for "Best Student Game" in 
 Indonesia ICT Awards 2014.
 
 ![gasing-evo-menu](./gasing-evo-menu.png)
+
+Technologies: Android, Desktop, Unity3D, C#

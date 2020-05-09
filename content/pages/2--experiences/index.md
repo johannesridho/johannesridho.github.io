@@ -27,7 +27,7 @@ using Go and Google Cloud Platform technologies (such as Google Kubernetes Engin
 My team's main goal was to create a new backend with better performance compared with the 
 previous backend app.
 
-I was also working on the backend for Call Levels chat solution using is Node JS and Google Dialogflow.
+I was also working on the backend for Call Levels chat solution using is Node.js and Google Dialogflow.
 
 
 ### GDP Labs (2015 - 2018)
@@ -53,5 +53,5 @@ data scientist to build machine learning models.
 
 Kaspay consisted of payment bot (available at FB Messenger, Telegram, Line, and Kaskus Chat), 
 wallet, voucher, and invoice system which are developed with Spring Framework with Java 8 for the backend, 
-and React JS for the frontend.
+and React for the frontend.
 

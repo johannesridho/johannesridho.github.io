@@ -15,4 +15,4 @@ with other people around their location. This also leads people to form
 a community based on content and interest around their location.
 My team built Novus at F8 Hackathon 2018.
 
-Technologies: Augmented Reality, Unity3D, Vuforia, Facebook Login
+Technologies: Augmented Reality, Android, Unity3D, Vuforia, Facebook Login

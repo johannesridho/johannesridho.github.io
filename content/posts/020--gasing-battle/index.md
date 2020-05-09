@@ -23,4 +23,4 @@ It is also awarded as the 3rd runner up in
 
 Download the app [here](./gasing-battle.apk)
 
-Technologies: Java, AndEngine
+Technologies: Android, Java, AndEngine

@@ -12,4 +12,4 @@ at BNI Hackfest Malang,
 top 10 at Bank Rakyat Indonesia Hackathon 2016, 
 and top 10 at Jenius Hackathon.
 
-Technologies: Node JS with Sails, React JS, Kotlin
+Technologies: Web, Android, Node.js with Sails, React, Kotlin
