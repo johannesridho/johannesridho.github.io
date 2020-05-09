@@ -22,3 +22,5 @@ It is also awarded as the 3rd runner up in
 [ITB Samsung App Challenge 2013](https://stei.itb.ac.id/id/blog/2014/05/06/tim-stei-itb-juara-pertama-pada-kegiatan-samsung-student-ambassador-2014).
 
 Download the app [here](./gasing-battle.apk)
+
+Technologies: Java, AndEngine
