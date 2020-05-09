@@ -25,13 +25,13 @@ const Blog = props => {
       {/* --- STYLES --- */}
       <style jsx>{`
         .main {
-          padding: 0 ${theme.space.inset.default};
+          padding: 0 ${`0 calc(${theme.space.default} * 1.5)`};
         }
 
         ul {
           list-style: none;
           margin: 0 auto;
-          padding: ${`calc(${theme.space.default} * 1.5) 0 calc(${theme.space.default} * 0.5)`};
+          padding: ${`1px 0 calc(${theme.space.default} * 0.5)`};
         }
 
         @above tablet {
