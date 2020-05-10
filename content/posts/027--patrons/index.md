@@ -20,4 +20,4 @@ an international hackathon held by F10 in Singapore.
 
 Code: https://github.com/Fakhri/vr-trading-prototype
 
-Technologies: Virtual Reality, Javascript, three.js
+Technologies: Virtual Reality, Javascript, Three.js
