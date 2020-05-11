@@ -14,13 +14,13 @@ autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></ifra
 In March 2020, I gave a talk with title 
 "High Performance Location-based Restaurant Campaigns in Foodpanda" in 
 [FOSSASIA Summit](https://summit.fossasia.org). 
-This talk highlights how we solve our problem where our 
+This talk highlights how my team solved our problem where our 
 service needs to return the list of campaigns based on 
 the user location and the delivery 
 areas of the restaurants participating in the campaigns. 
 We have around 10 active campaigns per country,
 around 9 thousand restaurants per campaign, and 10 delivery areas per restaurant. 
-In other words, we need to do ~900 thousand location checks 
+In other words, we need to do around 900 thousand location checks 
 for all delivery areas for each user request.
 
 Our service can handle more than 400 thousand requests per minute, 

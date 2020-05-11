@@ -8,9 +8,9 @@ author: Jo
 <iframe width="1440" height="900" src="https://www.youtube.com/embed/z-6UOWPExp8" frameborder="0" 
 allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Eyve is built to protect the visually impaired in their daily life 
+Eyve is built to protect people with visual impairments in their daily life 
 with computer vision and voice recognition. 
-We got the 3rd place at AWS Hackdays Final Hackathon 2019 with this project. 
+This project won the 3rd place in AWS Hackdays Final Hackathon 2019. 
 
 Code: https://github.com/Fakhri/eyve
 

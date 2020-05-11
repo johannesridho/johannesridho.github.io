@@ -51,7 +51,6 @@ data scientist to build machine learning models.
 
 ![Kaspay](./kaspay.png)
 
-Kaspay consisted of payment bot (available at FB Messenger, Telegram, Line, and Kaskus Chat), 
-wallet, voucher, and invoice system which are developed with Spring Framework with Java 8 for the backend, 
-and React for the frontend.
-
+Kaspay consisted of payment bot (available on FB Messenger, Telegram, Line, and Kaskus Chat), 
+wallet, voucher, and invoice system which were developed with Java (with Spring Framework) 
+for the backend, and React for the frontend.

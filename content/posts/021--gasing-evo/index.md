@@ -9,7 +9,7 @@ author: Jo
 
 Gasing EVO is an action arcade game for mobile and PC made 
 to mimic Indonesian traditional game "Gasing". 
-The game has many features including the multiplayer mode, 
+The game has many features including multi-player mode, 
 voice command, and remote play. 
 
 ![gasing-evo-ultimate](./gasing-evo-ultimate.png)

@@ -18,9 +18,9 @@ until it's Healthpoint is depleted.
 
 Gasing Battle was published in Google Play Store with total users 
 around 30 thousand in 3 years without any marketing effort.
-It is also awarded as the 3rd runner up in 
+It was also awarded as the 3rd runner up in 
 [ITB Samsung App Challenge 2013](https://stei.itb.ac.id/id/blog/2014/05/06/tim-stei-itb-juara-pertama-pada-kegiatan-samsung-student-ambassador-2014).
 
-Download the app [here](./gasing-battle.apk)
+Download and try the app [here](./gasing-battle.apk)!
 
 Technologies: Android, Java, AndEngine
