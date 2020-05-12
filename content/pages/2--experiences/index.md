@@ -9,7 +9,7 @@ and delivery marketplaces. It processes more than 3 million orders per day, part
 over 500 thousand restaurants and a fleet of riders. 
 It operates across Europe, Latin America, Asia-Pacific, the Middle East and North Africa.
 
-Here, I'm currently working on the backend for campaign related features inside [Foodpanda](https://www.foodpanda.com) 
+Here, I'm working on the backend for campaign related features inside [Foodpanda](https://www.foodpanda.com) 
 and [Foodora](https://www.foodora.com) using Go, Redis, DynamoDB, Kubernetes, 
 with Amazon Web Service as our main infrastructure. Our main service can handle more than 400 thousand 
 requests per minute. 
@@ -17,7 +17,7 @@ requests per minute.
 
 ### Call Levels (2018 - 2019)
 
-[Call Levels](https://www.call-levels.com) is a market monitoring mobile application, that services more than 500 
+[Call Levels](https://www.call-levels.com) is a market monitoring mobile application, serves more than 500 
 thousand investors globally. 
 
 ![CL](./call-levels.jpg)

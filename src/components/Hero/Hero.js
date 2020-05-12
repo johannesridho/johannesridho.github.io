@@ -12,9 +12,10 @@ const Hero = props => {
       <section className="hero">
         <h1> Johannes Ridho Tumpuan Parlindungan </h1>
         <p>
-          A software engineer experienced in building things by using Go, Java with Spring Framework,
-          Python, Node JS, Typescript, Ethereum blockchain development, and data engineering with
-          Google Cloud Platform
+          A software engineer experienced in backend (Go, Java, Python, Node.js, Spring Framework),
+          infrastructure (Google Cloud Platform and Amazon Web Services), data engineering (Google
+          Dataflow, Google BigQuery, Apache Airflow), virtual and augmented reality, blockchain, and
+          game development
         </p>
         <h1>
           <a
