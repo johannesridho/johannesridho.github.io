@@ -1,4 +1,60 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Jo]]></title><description><![CDATA[Jo's Personal Website]]></description><link>https://jortp.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 12 May 2020 19:42:11 GMT</lastBuildDate><item><title><![CDATA[Eyve]]></title><description><![CDATA[Eyve is built to protect people with visual impairments in their daily life 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Jo]]></title><description><![CDATA[Jo's Personal Website]]></description><link>https://jortp.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 13 May 2020 18:39:28 GMT</lastBuildDate><item><title><![CDATA[Foodpanda Campaign Carousel]]></title><description><![CDATA[In Delivery Hero, I am working on campaign related features in Foodpanda 
+and Foodora. One of them is Campaign Carousel. This project…]]></description><link>https://jortp.com/foodpanda-campaign-carousel/</link><guid isPermaLink="false">https://jortp.com/foodpanda-campaign-carousel/</guid><pubDate>Fri, 31 Dec 2032 16:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/422fcbe7b7b8787c938599b06a53b47b/f2f8c/campaign2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 23%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAABYlAAAWJQFJUiTwAAABi0lEQVQY0w2OT0hTcQDHH0iXpIuUZ8GDF8lDUKJBdJVEwwSDEDTwz+bBtEWCsEmkB0kU8xTlECx1OjEhEisiw7m1lYe5N/fec0+3+SZlvPfaHnr69Dt8Lp/v5/CVrOAPzGAMe1PGXNjBiaWxP+xivt3GCoSxlgVrUez1X5ibIX7/0TnL/cVaioo+IvYYpiD3+QuGsouUvNxD6tZTDP8ycqWL485XHNT5kK/0Ipd1I5d2slfSjnrVw+FdH+FH/RxNLKBU+UhdGyFZPiDw8K6pgXXXAyT5YgeKd4bY6hzRejf5h284vP+SjNuPfm8KtdaLWj1Etm0Gw7Mo3Avy3gDpO9NkvUEOmqfRap4Ruf2Yr5WtSOmyHuavD+J2PWelopvTrln0lklyA/PoDeMkLomHVf3oT/xobRPILWPkXm+QvjlOdnAR7cYo8oU+tMZhUoEpJGdHxd5KYIf2KX5Lcq6d4ISFe/+Twqc4he197O8JCkaeYsagEFE5y56KVuHfxzjFLYViSMOJZ3DOLf4DS3kr9mA4Z08AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+        alt=&quot;campaign&quot;
+        title=&quot;&quot;
+        src=&quot;/static/422fcbe7b7b8787c938599b06a53b47b/5a190/campaign2.png&quot;
+        srcset=&quot;/static/422fcbe7b7b8787c938599b06a53b47b/772e8/campaign2.png 200w,
+/static/422fcbe7b7b8787c938599b06a53b47b/e17e5/campaign2.png 400w,
+/static/422fcbe7b7b8787c938599b06a53b47b/5a190/campaign2.png 800w,
+/static/422fcbe7b7b8787c938599b06a53b47b/c1b63/campaign2.png 1200w,
+/static/422fcbe7b7b8787c938599b06a53b47b/f2f8c/campaign2.png 1490w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;In Delivery Hero, I am working on campaign related features in &lt;a href=&quot;https://www.foodpanda.com&quot;&gt;Foodpanda&lt;/a&gt;
+and &lt;a href=&quot;https://www.foodora.com&quot;&gt;Foodora&lt;/a&gt;. One of them is Campaign Carousel. This project consisted of
+multiple components and I am working on the backend of this project.&lt;/p&gt;
+&lt;p&gt;For the backend, my team needs to handle the campaigns management (create, update, etc) and serve
+the campaigns to the customers through web frontend and mobile apps.&lt;/p&gt;
+&lt;p&gt;The most difficult challenge for me was to return the list of campaigns based on
+the user location and the delivery
+areas of the restaurants participating in the campaigns.
+We have around 10 active campaigns per country,
+around 9 thousand restaurants per campaign, and 10 delivery areas per restaurant.
+In other words, we need to do around 900 thousand location checks
+for all delivery areas for each user request.&lt;/p&gt;
+&lt;p&gt;My team managed to build the service and it can handle more than 400 thousand requests per minute,
+around 17 times more than the
+real peak throughput at that time,
+which is 23.7 thousand requests per minute. &lt;/p&gt;
+&lt;p&gt;In March 2020, I gave a talk about this project in
+&lt;a href=&quot;https://summit.fossasia.org&quot;&gt;FOSSASIA Summit&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 62.5%; position: relative; height: 0; overflow: hidden; margin-bottom: 2em&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/lH1kYKF1V0E?t=4&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;p&gt;Technologies: Go, GraphQL, Amazon Web Service (DynamoDB, ElastiCache Redis, Elastic Kubernetes Service,
+SNS, SQS)&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Eyve]]></title><description><![CDATA[Eyve is built to protect people with visual impairments in their daily life 
 with computer vision and voice recognition. 
 This project won…]]></description><link>https://jortp.com/eyve/</link><guid isPermaLink="false">https://jortp.com/eyve/</guid><pubDate>Wed, 31 Dec 2031 16:00:00 GMT</pubDate><content:encoded>&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 62.5%; position: relative; height: 0; overflow: hidden; margin-bottom: 2em&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/z-6UOWPExp8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
 &lt;p&gt;Eyve is built to protect people with visual impairments in their daily life
