@@ -9,10 +9,11 @@ and delivery marketplaces. It processes more than 3 million orders per day, part
 over 500 thousand restaurants and a fleet of riders. 
 It operates across Europe, Latin America, Asia-Pacific, the Middle East and North Africa.
 
-Here, I'm working on the backend for campaign related features inside [Foodpanda](https://www.foodpanda.com) 
+Here, I am working on the backend for campaign related features in [Foodpanda](https://www.foodpanda.com) 
 and [Foodora](https://www.foodora.com) using Go, Redis, DynamoDB, Kubernetes, 
-with Amazon Web Service as our main infrastructure. Our main service can handle more than 400 thousand 
-requests per minute. 
+with Amazon Web Service as our main infrastructure. The backend of our main project, 
+[Campaign Carousel](/foodpanda-campaign-carousel), 
+can handle more than 400 thousand requests per minute. 
 
 
 ### Call Levels (2018 - 2019)
