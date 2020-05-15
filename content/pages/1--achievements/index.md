@@ -14,7 +14,7 @@ autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></ifra
 In March 2020, I gave a talk with title 
 "High Performance Location-based Restaurant Campaigns in Foodpanda" in 
 [FOSSASIA Summit](https://summit.fossasia.org). 
-This talk highlights how my team solved our problem where our 
+This talk highlights how my team solve a problem where our 
 service needs to return the list of campaigns based on 
 the user location and the delivery 
 areas of the restaurants participating in the campaigns. 
@@ -62,8 +62,9 @@ My team managed to get to the top 50 out of 111 teams for Advanced Category.
 ### F10 Fintech Hackathon Singapore 2018
 [F10 Fintech Hackathon](https://www.f10.ch/fintech-hackathon/singapore2018) 
 is an international hackathon hosted by F10 in Singapore. 
-In this event, my team built [Patrons](/patrons), a new way to visualize and display financial data by providing 
-personalized virtual experience monitoring using Virtual Reality technology.
+In this event, my team built [Patrons](/patrons), a new way to visualize and display 
+financial data by providing 
+personalized virtual experience monitoring with Virtual Reality technology.
 We were selected as the top 10 in this hackathon.
 
 ---

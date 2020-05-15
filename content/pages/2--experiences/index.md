@@ -10,8 +10,8 @@ over 500 thousand restaurants and a fleet of riders.
 It operates across Europe, Latin America, Asia-Pacific, the Middle East and North Africa.
 
 Here, I am working on the backend for campaign related features in [Foodpanda](https://www.foodpanda.com) 
-and [Foodora](https://www.foodora.com) using Go, Redis, DynamoDB, Kubernetes, 
-with Amazon Web Service as our main infrastructure. The backend of our main project, 
+and [Foodora](https://www.foodora.com) by using Go, Redis, DynamoDB, Kubernetes, 
+with Amazon Web Service as the main infrastructure. The backend of our main project, 
 [Campaign Carousel](/foodpanda-campaign-carousel), 
 can handle more than 400 thousand requests per minute. 
 
@@ -24,11 +24,11 @@ thousand investors globally.
 ![CL](./call-levels.jpg)
 
 In Call Levels, I was working on the new backend for the price monitoring and notification system 
-using Go and Google Cloud Platform technologies (such as Google Kubernetes Engine). 
+by using Go and Google Cloud Platform technologies (such as Google Kubernetes Engine). 
 My team's main goal was to create a new backend with better performance compared with the 
 previous backend app.
 
-I was also working on the backend for Call Levels chat solution using is Node.js and Google Dialogflow.
+I was also working on the backend for Call Levels chat solution with Node.js and Google Dialogflow.
 
 
 ### GDP Labs (2015 - 2018)
@@ -43,15 +43,15 @@ Kaskus Big Data and [Kaspay](https://kaspay.com).
  
 #### Kaskus Big Data
 
-My team built the data pipeline in Kaskus using Google Cloud Platform 
+My team built the data pipeline in Kaskus by using Google Cloud Platform 
 (e.g. Dataflow, PubSub, BigQuery) and Apache Airflow.
-We stored the whole data inside BigQuery. Then it can be used for data analyst to create reports and 
-data scientist to build machine learning models.
+We stored the whole data inside BigQuery. Then it can be used by the data analysts to create reports 
+and also the data scientists to build machine learning models.
 
 #### Kaspay 
 
 ![Kaspay](./kaspay.png)
 
-Kaspay consisted of payment bot (available on FB Messenger, Telegram, Line, and Kaskus Chat), 
+Kaspay consists of payment bot (available on FB Messenger, Telegram, Line, and Kaskus Chat), 
 wallet, voucher, and invoice system which were developed with Java (with Spring Framework) 
 for the backend, and React for the frontend.
