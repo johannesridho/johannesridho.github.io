@@ -7,9 +7,10 @@ menuTitle: Experiences
 [Delivery Hero](https://www.deliveryhero.com) is one of the leading global online food ordering 
 and delivery marketplaces. It processes more than 3 million orders per day, partnering with 
 over 500 thousand restaurants and a fleet of riders. 
-It operates across Europe, Latin America, Asia-Pacific, the Middle East and North Africa.
+Delivery Hero operates in over 40 countries across five continents 
+with over 22 thousand employees globally.
 
-Here, I am working on the backend for campaign related features in [Foodpanda](https://www.foodpanda.com) 
+Here, I am working on the backend for campaign-related features in [Foodpanda](https://www.foodpanda.com) 
 and [Foodora](https://www.foodora.com) by using Go, Redis, DynamoDB, Kubernetes, 
 with Amazon Web Service as the main infrastructure. The backend of our main project, 
 [Campaign Carousel](/foodpanda-campaign-carousel), 

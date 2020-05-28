@@ -14,7 +14,7 @@ autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></ifra
 In March 2020, I gave a talk with title 
 "High Performance Location-based Restaurant Campaigns in Foodpanda" in 
 [FOSSASIA Summit](https://summit.fossasia.org). 
-This talk highlights how my team solve a problem where our 
+This talk highlighted how my team solved a problem where our 
 service needs to return the list of campaigns based on 
 the user location and the delivery 
 areas of the restaurants participating in the campaigns. 
@@ -33,7 +33,7 @@ Find more details [here](/foodpanda-campaign-carousel).
 
 In 2019, I was shortlisted again to attend [F8 Hackathon](https://f82019.devpost.com) 
 and [F8 Facebook Developer Conference](https://www.f8.com). 
-My team built a computer vision powered application to report bullying activities at schools.
+My team built a computer vision powered application to report bullying activities in schools.
 
 ---
 
@@ -41,10 +41,10 @@ My team built a computer vision powered application to report bullying activitie
 
 ![AwsHackdays2019](aws-hackdays-2019.jpeg)
 
-My team won the 1st place of AWS Hackdays 2019 Indonesia and secured the 3rd place 
+My team won the 1st place in AWS Hackdays 2019 Indonesia and secured the 3rd place 
 in the Grand Final in Singapore. We built two products for this competition. 
 [Aident](/aident), a real-time crime activity detection and criminals face recognition system. 
-The second one is [Eyve](/eyve), it is built to protect visually impaired in daily life. 
+The second one is [Eyve](/eyve) which is built to protect people with visual impairments in daily life. 
 
 <iframe width="1440" height="900" src="https://www.youtube.com/embed/YKPRNlpmyno" frameborder="0" allow="accelerometer;
  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -130,7 +130,7 @@ The project we built here was [Ceki](/ceki), a QR code based payment system.
 
 ### Kaskus HP Startgaming Competition 2015
 Kaskus HP Startgaming Competition is a gaming competition held by [Kaskus](https://kaskus.co.id).
-My team won the 2nd place in this competition.
+My team won 2nd place in this competition.
 
 ---
 
@@ -158,28 +158,28 @@ Here, my team was selected as one of the top 3 finalists for Economic Category.
 
 ### Gemastik (Pagelaran Mahasiswa Nasional bidang Teknologi Informasi dan Komunikasi) VII 2014
 Gemastik is the biggest student information technology competition in Indonesia. 
-Here, my team won the 2nd place for Business Game Category. 
+Here, my team won 2nd place for the Business Game Category. 
 
 ---
 
 ### Computer Festival University of Indonesia 2014
 [Computer Festival](https://compfest.id) is an annual information technology competition 
-held by University of Indonesia.
+held by the University of Indonesia.
 Here, my team's project [Gasing Evo](/gasing-evo) was awarded "Excellence in Game Arts" 
-for game category.
+for the game category.
 
 ---
 
 ### INAICTA (Indonesia ICT Awards) 2014
 INAICTA is the biggest information and communication technology event in Indonesia.
-In this competition, my team's project, [Gasing Evo](/gasing-evo), an action arcade game for mobile 
-and PC made to mimic Indonesian traditional game “Gasing”, was nominated 
-for "Best Student Game Development" award.
+In this competition, my team's project, [Gasing Evo](/gasing-evo) was nominated 
+for "Best Student Game Development" award. Gasing Evo is an action arcade game for mobile 
+and PC made to mimic Indonesian traditional game “Gasing”, 
 
 ---
 
 ### Institut Teknologi Bandung Chess Competition 2013
-My team won the 1st place in this chess competition.
+My team won 1st place in this chess competition.
 
 ---
 
