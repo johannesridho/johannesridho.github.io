@@ -14,7 +14,7 @@ Here, I am working on the backend for campaign-related features in [Foodpanda](h
 and [Foodora](https://www.foodora.com) by using Go, Redis, DynamoDB, Kubernetes, 
 with Amazon Web Service as the main infrastructure. The backend of our main project, 
 [Campaign Carousel](/foodpanda-campaign-carousel), 
-can handle more than 400 thousand requests per minute. 
+can handle more than 700 thousand requests per minute. 
 
 
 ### Call Levels (2018 - 2019)

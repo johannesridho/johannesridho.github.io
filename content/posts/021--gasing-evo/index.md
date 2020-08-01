@@ -19,4 +19,6 @@ Indonesia ICT Awards 2014.
 
 ![gasing-evo-menu](./gasing-evo-menu.png)
 
+Download and try the Android version [here](https://drive.google.com/file/d/0B1mLLYFP7gLKM1hxSkRKVlQwdHc/view?usp=sharing)!
+
 Technologies: Android, Desktop, Unity3D, C#

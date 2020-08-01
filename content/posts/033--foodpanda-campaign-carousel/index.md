@@ -22,10 +22,11 @@ around 9 thousand restaurants per campaign, and 10 delivery areas per restaurant
 In other words, we need to do around 900 thousand location checks 
 for all delivery areas for each user request.
 
-My team managed to build the service and it can handle more than 400 thousand requests per minute, 
+My team managed to build the service and it was able to handle more than 400 thousand requests per minute, 
 around 17 times more than the 
 real peak throughput at that time, 
-which is 23.7 thousand requests per minute. 
+which is 23.7 thousand requests per minute. And now, after some more optimisations, it is able to handle more than 700 
+thousand requests per minute.
 
 In March 2020, I gave a talk about this project in 
 [FOSSASIA Summit](https://summit.fossasia.org).

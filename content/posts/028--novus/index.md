@@ -15,4 +15,6 @@ with other people around their location. It can lead people to form
 a new community, based on contents and interests around their location.
 My team built Novus in F8 Hackathon 2018.
 
+My teammate wrote about the idea here: https://medium.com/@tsambora/startup-idea-s-ar-internet-c2dc8a851531.
+
 Technologies: Augmented Reality, Android, Unity3D, Vuforia, Facebook Login
