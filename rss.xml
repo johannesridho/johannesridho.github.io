@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Jo]]></title><description><![CDATA[Jo's Personal Website]]></description><link>https://jortp.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 21 Jun 2020 13:25:42 GMT</lastBuildDate><item><title><![CDATA[Foodpanda Campaign Carousel]]></title><description><![CDATA[In Delivery Hero, I am working on campaign related features in Foodpanda 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Jo]]></title><description><![CDATA[Jo's Personal Website]]></description><link>https://jortp.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 01 Aug 2020 07:37:53 GMT</lastBuildDate><item><title><![CDATA[Foodpanda Campaign Carousel]]></title><description><![CDATA[In Delivery Hero, I am working on campaign related features in Foodpanda 
 and Foodora. One of them is Campaign Carousel. This project…]]></description><link>https://jortp.com/foodpanda-campaign-carousel/</link><guid isPermaLink="false">https://jortp.com/foodpanda-campaign-carousel/</guid><pubDate>Fri, 31 Dec 2032 16:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -46,10 +46,11 @@ We have around 10 active campaigns per country,
 around 9 thousand restaurants per campaign, and 10 delivery areas per restaurant.
 In other words, we need to do around 900 thousand location checks
 for all delivery areas for each user request.&lt;/p&gt;
-&lt;p&gt;My team managed to build the service and it can handle more than 400 thousand requests per minute,
+&lt;p&gt;My team managed to build the service and it was able to handle more than 400 thousand requests per minute,
 around 17 times more than the
 real peak throughput at that time,
-which is 23.7 thousand requests per minute. &lt;/p&gt;
+which is 23.7 thousand requests per minute. And now, after some more optimisations, it is able to handle more than 700
+thousand requests per minute.&lt;/p&gt;
 &lt;p&gt;In March 2020, I gave a talk about this project in
 &lt;a href=&quot;https://summit.fossasia.org&quot;&gt;FOSSASIA Summit&lt;/a&gt;.&lt;/p&gt;
 &lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 62.5%; position: relative; height: 0; overflow: hidden; margin-bottom: 2em&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/lH1kYKF1V0E?t=4&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
@@ -251,6 +252,7 @@ Indonesia ICT Awards 2014.&lt;/p&gt;
   
   &lt;/a&gt;
     &lt;/p&gt;
+&lt;p&gt;Download and try the Android version &lt;a href=&quot;https://drive.google.com/file/d/0B1mLLYFP7gLKM1hxSkRKVlQwdHc/view?usp=sharing&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
 &lt;p&gt;Technologies: Android, Desktop, Unity3D, C#&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gasing Battle]]></title><description><![CDATA[Gasing Battle is an Android game where the player controls a Gasing, 
 a traditional toy from Indonesia, to battle with another player 
 by…]]></description><link>https://jortp.com/gasing-battle/</link><guid isPermaLink="false">https://jortp.com/gasing-battle/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;
