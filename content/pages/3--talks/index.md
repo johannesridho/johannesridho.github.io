@@ -47,5 +47,5 @@ Links: [slide](https://docs.google.com/presentation/d/1gKiZjflNSX4MSxUf_K3t7qpPf
 ### Facebook Developer Circles Jakarta Event May 2018
 In this event, I gave a talk about building Augmented Reality applications using Unity Game Engine and Vuforia.
 
-Links: [slide](https://docs.google.com/presentation/d/1r9Qv7Nh4JxB_VFA0f7pZlhcpDBMLWEZv-Sgk40F-hoo/edit?usp=sharing)
+Links: [slide](https://docs.google.com/presentation/d/1r9Qv7Nh4JxB_VFA0f7pZlhcpDBMLWEZv-Sgk40F-hoo/edit?usp=sharing),
 [code](https://github.com/johannesridho/simple-ar-app)  
