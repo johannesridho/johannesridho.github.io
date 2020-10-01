@@ -7,7 +7,6 @@ menuTitle: Achievements
 ---
 
 ### Facebook F8 Hackathon 2019
-
 ![F82019](f8-2019.jpeg)
 
 In 2019, I was shortlisted again to attend [F8 Hackathon](https://f82019.devpost.com) 
@@ -17,7 +16,6 @@ My team built a computer vision powered application to report bullying activitie
 ---
 
 ### AWS Hackdays 2019
-
 ![AwsHackdays2019](aws-hackdays-2019.jpeg)
 
 My team won the 1st place in AWS Hackdays 2019 Indonesia and secured the 3rd place 
@@ -108,6 +106,8 @@ The project we built here was [Ceki](/ceki), a QR code based payment system.
 ---
 
 ### Kaskus HP Startgaming Competition 2015
+![Startgaming](startgaming.jpg)
+
 Kaskus HP Startgaming Competition is a gaming competition held by [Kaskus](https://kaskus.co.id).
 My team won 2nd place in this competition.
 
