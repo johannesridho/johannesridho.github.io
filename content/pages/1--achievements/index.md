@@ -6,24 +6,6 @@ menuTitle: Achievements
 
 ---
 
-### FOSSASIA Summit 2020 
-
-<iframe width="1440" height="900" src="https://www.youtube.com/embed/lH1kYKF1V0E?t=4" frameborder="0" allow="accelerometer;
-autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-In March 2020, I gave a talk with title 
-"High Performance Location-based Restaurant Campaigns in Foodpanda" in 
-[FOSSASIA Summit](https://summit.fossasia.org). 
-This talk highlighted how my team solved a problem where our 
-service needs to return the list of campaigns based on 
-the user location and the delivery 
-areas of the restaurants participating in the campaigns. 
-This service is now able to handle more than 700 thousand requests per minute.
- 
-Find more details [here](/foodpanda-campaign-carousel).
-
----
-
 ### Facebook F8 Hackathon 2019
 
 ![F82019](f8-2019.jpeg)
