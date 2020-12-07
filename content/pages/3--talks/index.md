@@ -12,12 +12,12 @@ autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></ifra
 
 In March 2020, I gave a talk with title 
 "High Performance Location-based Restaurant Campaigns in Foodpanda" in 
-[FOSSASIA Summit](https://summit.fossasia.org). 
+[FOSSASIA Summit](https://2020.fossasia.org). 
 This talk highlighted how my team solved a problem where our 
 service needs to return the list of campaigns based on 
 the user location and the delivery 
 areas of the restaurants participating in the campaigns. 
-This service is now able to handle more than 700 thousand requests per minute.
+This service is now able to handle more than 800 thousand requests per minute.
 
 Find more details [here](/foodpanda-campaign-carousel).
 

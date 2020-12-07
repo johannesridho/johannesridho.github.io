@@ -25,11 +25,11 @@ for all delivery areas for each user request.
 My team managed to build the service and it was able to handle more than 400 thousand requests per minute, 
 around 17 times more than the 
 real peak throughput at that time, 
-which is 23.7 thousand requests per minute. And now, after some more optimisations, it is able to handle more than 700 
-thousand requests per minute.
+which is 23.7 thousand requests per minute. And now, after some more optimisations, it can handle more than 800 
+thousand requests per minute with the response time around 3 ms.
 
 In March 2020, I gave a talk about this project in 
-[FOSSASIA Summit](https://summit.fossasia.org).
+[FOSSASIA Summit](https://2020.fossasia.org).
 
 <iframe width="1440" height="900" src="https://www.youtube.com/embed/lH1kYKF1V0E?t=4" frameborder="0" allow="accelerometer;
 autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
