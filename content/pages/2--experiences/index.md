@@ -10,6 +10,8 @@ over 500 thousand restaurants and a fleet of riders.
 Delivery Hero operates in over 40 countries across five continents 
 with over 22 thousand employees globally.
 
+![FP](./fp.jpg)
+
 Here, I am working on the backend for campaign-related features in [Foodpanda](https://www.foodpanda.com) 
 and [Foodora](https://www.foodora.com) by using Go, Redis, DynamoDB, Kubernetes, 
 with Amazon Web Service as the main infrastructure. The backend of our main project, 
