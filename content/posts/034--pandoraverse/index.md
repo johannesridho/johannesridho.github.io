@@ -9,7 +9,7 @@ author: Jo
 allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Pandoraverse is a new universe designed to explore restaurants through Augmented Reality. 
-We can see the restaurants nearby, navigate to a specific restaurant, and see Foodpanda related marketing contents 
+We can see the restaurants nearby, navigate to a specific restaurant, and see [Foodpanda](https://www.foodpanda.com) related marketing contents 
 (such as vouchers, banners) placed in the real world through the Augmented Reality technology. 
 With this app, we won the Most Innovative and the Best Presentation award at Delivery Hero Hackathon 2021.
 

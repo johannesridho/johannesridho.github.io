@@ -17,4 +17,7 @@ My team built Novus in F8 Hackathon 2018.
 
 My teammate wrote about the idea here: https://medium.com/@tsambora/startup-idea-s-ar-internet-c2dc8a851531.
 
+<iframe width="1440" height="900" src="https://www.youtube.com/embed/TXMKEuwq9Lo" frameborder="0" 
+allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Technologies: Augmented Reality, Android, Unity3D, Vuforia, Facebook Login
