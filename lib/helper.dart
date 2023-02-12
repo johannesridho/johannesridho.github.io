@@ -27,7 +27,6 @@ TextSpan getStyledExternalLink(BuildContext context, String text, String url) {
     text: text,
     style: Theme.of(context).textTheme.bodyLarge?.copyWith(
       color: Theme.of(context).primaryColor,
-      decoration: TextDecoration.underline,
     ),
     recognizer: TapGestureRecognizer()..onTap = () async {
       final uri = Uri.parse(url);
@@ -43,7 +42,6 @@ TextSpan getStyledInternalLink(BuildContext context, String text, String url) {
     text: text,
     style: Theme.of(context).textTheme.bodyLarge?.copyWith(
       color: Theme.of(context).primaryColor,
-      decoration: TextDecoration.underline,
     ),
     recognizer: TapGestureRecognizer()..onTap = () async {
       context.go(url);

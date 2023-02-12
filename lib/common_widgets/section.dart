@@ -30,9 +30,9 @@ class Section extends StatelessWidget {
             child: Image.asset(imagePath),
           ),
         ),
-        RichText(
+        SelectableText.rich(
           textAlign: TextAlign.justify,
-          text: TextSpan(
+          TextSpan(
             children: contents,
           ),
         ),
