@@ -69,7 +69,7 @@ class MyApp extends StatelessWidget {
                 },
                 routes: <RouteBase>[
                   GoRoute(
-                    path: 'foodpanda-campaign',
+                    path: 'foodpanda-campaign-carousel',
                     builder: (BuildContext context, GoRouterState state) {
                       return const FPCampaign();
                     },

@@ -29,7 +29,8 @@ class CommonContainer extends StatelessWidget {
       itemBuilder: (BuildContext context, int index) {
         return children[index];
       },
-      separatorBuilder: (BuildContext context, int index) => const Divider(height: 50, thickness: 1),
+      separatorBuilder: (BuildContext context, int index) => const Divider
+        (height: 60, thickness: 1),
       itemCount: children.length,
     );
   }

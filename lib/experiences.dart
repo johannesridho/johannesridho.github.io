@@ -27,7 +27,7 @@ class Experience extends StatelessWidget {
           getStyledText(context, ' by using Go, Redis, Amazon DynamoDB, MySQL, '
             'Kubernetes, with Amazon Web Service as the main infrastructure.'
             'The backend of our main project, '),
-          getStyledInternalLink(context, 'Campaign Carousel', '/projects/foodpanda-campaign'),
+          getStyledInternalLink(context, 'Campaign Carousel', '/projects/foodpanda-campaign-carousel'),
           getStyledText(context, ', can handle more than 900 thousand requests per minute.'),
         ],
       ),

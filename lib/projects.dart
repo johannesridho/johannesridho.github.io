@@ -20,7 +20,7 @@ class Projects extends StatelessWidget {
         img: 'images/project_thumbnails/campaign.webp',
         title: 'Foodpanda Campaign Carousel',
         subtitle: 'Location-based campaign',
-        url: 'foodpanda-campaign',
+        url: 'foodpanda-campaign-carousel',
       ),
       const ProjectItem(
         img: 'images/project_thumbnails/comet.webp',
