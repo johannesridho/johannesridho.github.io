@@ -19,7 +19,7 @@ class Section extends StatelessWidget {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: <Widget>[
-        Text(
+        SelectableText(
           title,
           style: Theme.of(context).textTheme.headlineSmall,
         ),
