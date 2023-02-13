@@ -59,8 +59,7 @@ class Achievements extends StatelessWidget {
       Section(
         title: 'F10 Fintech Hackathon Singapore 2018',
         contents: [
-          getStyledExternalLink(context, 'F10 Fintech Hackathon', ''),
-          getStyledText(context, ' is an international hackathon hosted by F10 in Singapore. In this event, my team built '),
+          getStyledText(context, 'F10 Fintech Hackathon is an international hackathon hosted by F10 in Singapore. In this event, my team built '),
           getStyledInternalLink(context, 'Patrons', '/projects/patrons'),
           getStyledText(context, ', a new way to visualize and display financial data '
             'by providing personalized virtual experience monitoring with Virtual Reality technology. '
