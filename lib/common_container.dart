@@ -4,10 +4,12 @@ import 'helper.dart';
 
 class CommonContainer extends StatelessWidget {
   final List<Widget> children;
+  final bool? disableSeparator;
 
   const CommonContainer({
     super.key,
     required this.children,
+    this.disableSeparator = false,
   });
 
   @override
@@ -29,8 +31,9 @@ class CommonContainer extends StatelessWidget {
       itemBuilder: (BuildContext context, int index) {
         return children[index];
       },
-      separatorBuilder: (BuildContext context, int index) => const Divider
-        (height: 60, thickness: 1),
+      separatorBuilder: (BuildContext context, int index) => 
+        disableSeparator! ? const Divider(height: 30, color: Colors.transparent) : const Divider(height: 60, thickness:
+        1),
       itemCount: children.length,
     );
   }
