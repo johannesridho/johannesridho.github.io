@@ -16,18 +16,21 @@ class ProjectItem extends StatelessWidget {
     return Expanded(
       child: Padding(
         padding: const EdgeInsets.symmetric(horizontal: 10),
-        child: Column(
-          children: [
-            ClipRRect(
-              borderRadius: BorderRadius.circular(9.0),
-              child: Image.asset(img),
-            ),
-            ListTile(
-              title: Text(title),
-              subtitle: Text(subtitle),
-              onTap: () => context.go('/projects/$url'),
-            ),
-          ],
+        child:
+        InkWell(
+          child: Column(
+            children: [
+              ClipRRect(
+                borderRadius: BorderRadius.circular(9.0),
+                child: Image.asset(img),
+              ),
+              ListTile(
+                title: Text(title),
+                subtitle: Text(subtitle),
+              ),
+            ],
+          ),
+          onTap: () => context.go('/projects/$url'),
         ),
       ),
     );
