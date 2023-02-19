@@ -15,32 +15,32 @@ class Experience extends StatelessWidget {
         title: 'Senior Software Engineer - Delivery Hero (2019 - 2021)',
         imagePath: 'images/experiences/fp.jpg',
         contents: [
-          getStyledExternalLink(context, 'Delivery Hero', 'https://deliveryhero.com'),
-          getStyledText(
+          link(context, 'Delivery Hero', 'https://deliveryhero.com'),
+          text(
               context,
               ' is one of the leading global online food ordering and delivery marketplaces. '
               'It processes more than 3 million orders per day, partnering with over 500 thousand restaurants and '
               'a fleet of riders. Delivery Hero operates in over 40 countries across five continents with over '
               '22 thousand employees globally.'),
-          getStyledText(context, '\n\nHere I am working on the backend for campaign-related features in '),
-          getStyledExternalLink(context, 'Foodpanda', 'https://foodpanda.com'),
-          getStyledText(context, ' and '),
-          getStyledExternalLink(context, 'Foodora', 'https://foodora.com'),
-          getStyledText(
+          text(context, '\n\nHere I am working on the backend for campaign-related features in '),
+          link(context, 'Foodpanda', 'https://foodpanda.com'),
+          text(context, ' and '),
+          link(context, 'Foodora', 'https://foodora.com'),
+          text(
               context,
               ' by using Go, Redis, Amazon DynamoDB, MySQL, '
               'Kubernetes, with Amazon Web Service as the main infrastructure.'
               'The backend of our main project, '),
-          getStyledInternalLink(context, 'Campaign Carousel', '/projects/foodpanda-campaign-carousel'),
-          getStyledText(context, ', can handle more than 900 thousand requests per minute.'),
+          link(context, 'Campaign Carousel', '/projects/foodpanda-campaign-carousel'),
+          text(context, ', can handle more than 900 thousand requests per minute.'),
         ],
       ),
       Section(
         title: 'Tech Lead - Call Levels (2018 - 2019)',
         imagePath: 'images/experiences/call-levels.jpg',
         contents: [
-          getStyledExternalLink(context, 'Call Levels', 'https://www.call-levels.com'),
-          getStyledText(
+          link(context, 'Call Levels', 'https://www.call-levels.com'),
+          text(
               context,
               ' is a market monitoring mobile application with more than '
               '500 thousand investors globally. At Call Levels, I built the '
@@ -58,31 +58,31 @@ class Experience extends StatelessWidget {
         title: 'Principal Software Engineer - GDP Labs (2015 - 2018)',
         imagePath: 'images/experiences/kaspay.png',
         contents: [
-          getStyledExternalLink(context, 'GDP Labs (Global Digital Prima) Labs', 'https://gdplabs.id'),
-          getStyledText(
+          link(context, 'GDP Labs (Global Digital Prima) Labs', 'https://gdplabs.id'),
+          text(
               context,
               ', is a software product development-centric organization based in Indonesia. '
               'It’s main goal is to help sister companies and incubate startups'
               '. GDP Labs is a part of '),
-          getStyledExternalLink(context, 'GDP Venture', 'https://gdpventure.com'),
-          getStyledText(
+          link(context, 'GDP Venture', 'https://gdpventure.com'),
+          text(
               context,
               '.\n\nAt GDP Labs, I was mainly working on '
               'two big projects from '),
-          getStyledExternalLink(context, 'Kaskus', 'https://kaskus.co.id'),
-          getStyledText(
+          link(context, 'Kaskus', 'https://kaskus.co.id'),
+          text(
               context,
               ', the biggest online forum in Indonesia '
               'with more than 25 million users. The projects are '),
-          getStyledExternalLink(context, 'Kaspay', 'https://kaspay.com'),
-          getStyledText(context, ' and Kaskus Big Data.'),
-          getStyledText(
+          link(context, 'Kaspay', 'https://kaspay.com'),
+          text(context, ' and Kaskus Big Data.'),
+          text(
               context,
               '\n\nKaspay consists of payment bot (available '
               'on FB Messenger, Telegram, Line, and Kaskus Chat), wallet, voucher, '
               'and invoice system developed using Java (with Spring Framework) '
               'for the backend, and React for the frontend.'),
-          getStyledText(
+          text(
               context,
               '\n\nAfter Kaspay, I worked on Kaskus Big '
               'Data. Kaskus Big Data team was responsible for '

@@ -15,29 +15,29 @@ bool isDesktop(double width) {
   return width >= 1100;
 }
 
-TextSpan getStyledText(BuildContext context, String text) {
+TextSpan text(BuildContext context, String text) {
   return TextSpan(
     text: text,
     style: Theme.of(context).textTheme.bodyLarge,
   );
 }
 
-TextSpan getStyledExternalLink(BuildContext context, String text, String url) {
-  return TextSpan(
-    text: text,
-    style: Theme.of(context).textTheme.bodyLarge?.copyWith(
-      color: Theme.of(context).primaryColor,
-    ),
-    recognizer: TapGestureRecognizer()..onTap = () async {
-      final uri = Uri.parse(url);
-      if (await canLaunchUrl(uri)) {
-        await launchUrl(uri);
-      }
-    },
-  );
-}
+TextSpan link(BuildContext context, String text, String url) {
+  if (url.startsWith('http')) {
+    return TextSpan(
+      text: text,
+      style: Theme.of(context).textTheme.bodyLarge?.copyWith(
+        color: Theme.of(context).primaryColor,
+      ),
+      recognizer: TapGestureRecognizer()..onTap = () async {
+        final uri = Uri.parse(url);
+        if (await canLaunchUrl(uri)) {
+          await launchUrl(uri);
+        }
+      },
+    );
+  }
 
-TextSpan getStyledInternalLink(BuildContext context, String text, String url) {
   return TextSpan(
     text: text,
     style: Theme.of(context).textTheme.bodyLarge?.copyWith(
