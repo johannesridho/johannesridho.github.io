@@ -17,7 +17,7 @@ class YoutubeVideo extends StatelessWidget {
 
     // ignore: undefined_prefixed_name
     ui.platformViewRegistry.registerViewFactory(
-      'iframeElement',
+      'iframeElement$videoID',
           (int viewId) => iframeElement,
     );
 
@@ -25,7 +25,7 @@ class YoutubeVideo extends StatelessWidget {
       height: 400,
       child: HtmlElementView(
         key: UniqueKey(),
-        viewType: 'iframeElement',
+        viewType: 'iframeElement$videoID',
       ),
     );
   }

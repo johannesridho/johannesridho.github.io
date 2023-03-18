@@ -14,7 +14,7 @@ class Projects extends StatelessWidget {
         img: 'images/project_thumbnails/pandoraverse.webp',
         title: 'Pandoraverse',
         subtitle: 'A new universe designed to explore restaurants through Augmented Reality',
-        url: '',
+        url: 'pandoraverse',
       ),
       const ProjectItem(
         img: 'images/project_thumbnails/campaign.webp',
