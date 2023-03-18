@@ -26,7 +26,7 @@ class Projects extends StatelessWidget {
         img: 'images/project_thumbnails/comet.webp',
         title: 'Comet',
         subtitle: 'An offline payment solution that leverages the power of blockchain',
-        url: '',
+        url: 'comet',
       ),
       const ProjectItem(
         img: 'images/project_thumbnails/ceki.webp',

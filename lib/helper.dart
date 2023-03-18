@@ -41,10 +41,21 @@ TextSpan link(BuildContext context, String text, String url) {
   return TextSpan(
     text: text,
     style: Theme.of(context).textTheme.bodyLarge?.copyWith(
-      color: Theme.of(context).primaryColor,
+          color: Theme.of(context).primaryColor,
+        ),
+    recognizer: TapGestureRecognizer()
+      ..onTap = () async {
+        context.go(url);
+      },
+  );
+}
+
+Widget projectDetailImage(String fileName) {
+  return Padding(
+    padding: const EdgeInsets.symmetric(vertical: 10),
+    child: ClipRRect(
+      borderRadius: BorderRadius.circular(18.0),
+      child: Image.asset('images/projects/$fileName'),
     ),
-    recognizer: TapGestureRecognizer()..onTap = () async {
-      context.go(url);
-    },
   );
 }

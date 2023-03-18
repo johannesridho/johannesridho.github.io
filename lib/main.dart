@@ -1,13 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_web_plugins/url_strategy.dart';
 import 'package:go_router/go_router.dart';
-import 'package:jortp/projects/pandoraverse.dart';
 
 import 'achievements.dart';
 import 'experiences.dart';
 import 'home.dart';
 import 'projects.dart';
+import 'projects/comet.dart';
 import 'projects/fp_campaign.dart';
+import 'projects/pandoraverse.dart';
 
 class CustomImageCache extends WidgetsFlutterBinding {
   @override
@@ -79,6 +80,12 @@ class MyApp extends StatelessWidget {
                     path: 'foodpanda-campaign-carousel',
                     builder: (BuildContext context, GoRouterState state) {
                       return const FPCampaign();
+                    },
+                  ),
+                  GoRoute(
+                    path: 'comet',
+                    builder: (BuildContext context, GoRouterState state) {
+                      return const Comet();
                     },
                   ),
                 ],

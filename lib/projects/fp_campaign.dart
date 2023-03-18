@@ -10,20 +10,12 @@ class FPCampaign extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    const imagePadding = EdgeInsets.symmetric(vertical: 10);
-
     return Body(
       title: "Foodpanda Campaign Carousel",
       child: CommonContainer(
         disableSeparator: true,
         children: [
-          Padding(
-            padding: imagePadding,
-            child: ClipRRect(
-              borderRadius: BorderRadius.circular(18.0),
-              child: Image.asset('images/projects/campaign.png'),
-            ),
-          ),
+          projectDetailImage('campaign.png'),
           SelectableText.rich(
             textAlign: TextAlign.justify,
             TextSpan(children: [
@@ -43,10 +35,8 @@ class FPCampaign extends StatelessWidget {
                 '10 active campaigns per country, around 9 thousand restaurants per campaign, and 10 delivery '
                 'areas per restaurant. In other words, we need to do around 900 thousand location checks for all '
                 'delivery areas for each user request. '
-                '\n\nMy team managed to build the service and it was able to handle more than 400 thousand requests '
-                'per minute, around 17 times more than the real peak throughput at that time, which is 23.7 thousand '
-                'requests per minute. And now, after some more optimisations, it can handle more than 900 thousand '
-                'requests per minute with the response time around 3 ms. '
+                '\n\nMy team managed to build the service and it was able to handle more than 900 thousand requests '
+                'per minute, around 4 times more than the real peak throughput at that time.'
                 '\n\nIn March 2020, I gave a talk about this project in ',
               ),
               link(context, 'FOSSASIA Summit', 'https://2020.fossasia.org'),
