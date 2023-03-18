@@ -1,13 +1,16 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_web_plugins/url_strategy.dart';
 import 'package:go_router/go_router.dart';
+import 'package:jortp/projects/gasing_battle.dart';
 
 import 'achievements.dart';
 import 'experiences.dart';
 import 'home.dart';
 import 'projects.dart';
+import 'projects/ceki.dart';
 import 'projects/comet.dart';
 import 'projects/fp_campaign.dart';
+import 'projects/novus.dart';
 import 'projects/pandoraverse.dart';
 
 class CustomImageCache extends WidgetsFlutterBinding {
@@ -88,6 +91,24 @@ class MyApp extends StatelessWidget {
                       return const Comet();
                     },
                   ),
+                  GoRoute(
+                    path: 'ceki',
+                    builder: (BuildContext context, GoRouterState state) {
+                      return const Ceki();
+                    },
+                  ),
+                  GoRoute(
+                    path: 'gasing-battle',
+                    builder: (BuildContext context, GoRouterState state) {
+                      return const GasingBattle();
+                    },
+                  ),
+                  GoRoute(
+                    path: 'novus',
+                    builder: (BuildContext context, GoRouterState state) {
+                      return const Novus();
+                    },
+                  )
                 ],
               ),
             ],

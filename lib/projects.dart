@@ -32,19 +32,21 @@ class Projects extends StatelessWidget {
         img: 'images/project_thumbnails/ceki.webp',
         title: 'Ceki',
         subtitle: 'We built a QR code payment solution before it was cool',
-        url: '',
+        url: 'ceki',
       ),
       const ProjectItem(
         img: 'images/project_thumbnails/gasing-battle.webp',
         title: 'Gasing Battle',
-        subtitle: 'An Android game where the player controls a Gasing, a traditional toy from Indonesia, to battle with another player by tilting the mobile phone',
-        url: '',
+        subtitle:
+            'An Android game where the player controls a Gasing, a traditional toy from Indonesia, to battle with another player by tilting the mobile phone',
+        url: 'gasing-battle',
       ),
       const ProjectItem(
         img: 'images/project_thumbnails/novus.webp',
         title: 'Novus',
-        subtitle: 'A new social network where people can see other people’s Augmented Reality contents attached to the objects around their location',
-        url: '',
+        subtitle:
+            'A new social network where people can see other people’s Augmented Reality contents attached to the objects around their location',
+        url: 'novus',
       ),
     ];
 
