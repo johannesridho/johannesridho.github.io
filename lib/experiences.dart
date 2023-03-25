@@ -12,6 +12,44 @@ class Experience extends StatelessWidget {
   Widget build(BuildContext context) {
     final experiences = <Widget>[
       Section(
+        title: 'Senior Software Engineer - Booking.com (2022 - present)',
+        contents: [
+          link(context, 'Booking.com', 'https://www.booking.com'),
+          text(
+              context,
+              " is one of the largest digital travel companies in the world."
+              "Booking.com, along with other big travel brands such as Priceline, Agoda, Kayak, Rentalcars.com & "
+              "OpenTable, are part of "),
+          link(context, 'Booking Holdings', 'https://www.bookingholdings.com'),
+          text(
+              context,
+              ".\n\nOne of our biggest goals at Booking.com is to build a connected trip. We want to enable customers "
+              "to order multiple products (hotels, flights, attractions, taxis, insurance, and rental cars) in "
+              "a single trip."
+              "\n\nMy current team, Order Platform, contributes to this goal by integrating orders across multiple "
+              "products. There are thousands of orders a day. And what makes it more challenging is we have "
+              "to handle complex scenarios because it involves multiple products. For example, when "
+              "a customer tries to cancel their trip, we can't just send cancellation requests to every product "
+              "and assume everything will succeed. What if the flight is successfully cancelled, but "
+              "the hotels fail? Then we need to do a rollback. But how do we roll back a cancellation?"
+              "\n\nTo solve these challenges, we need to design the system carefully. We also use Orchestration-based "
+              "Saga using AWS Step Functions. Other technologies involved are Java, Cassandra, and Kubernetes."),
+        ],
+      ),
+      Section(
+        title: 'Senior Consultant - Thoughtworks (2022)',
+        contents: [
+          link(context, 'Thoughtworks', 'https://www.thoughtworks.com'),
+          text(
+              context,
+              " is one of the best technology consultancies in the world, with more than "
+              "12.000 employees in 18 countries. Thoughtworkers are famous for their ability to deliver "
+              "high-quality software."
+              "\n\nAt Thoughtworks, I learn a lot about Agile and Feedback culture. I also learnt how to do Pair "
+              "Programming, Test-driven Development (TDD), and Trunk-based Development the right way."),
+        ],
+      ),
+      Section(
         title: 'Senior Software Engineer - Delivery Hero (2019 - 2021)',
         imagePath: 'images/experiences/fp.jpg',
         contents: [
@@ -22,7 +60,7 @@ class Experience extends StatelessWidget {
               'It processes more than 3 million orders per day, partnering with over 500 thousand restaurants and '
               'a fleet of riders. Delivery Hero operates in over 40 countries across five continents with over '
               '22 thousand employees globally.'),
-          text(context, '\n\nHere I am working on the backend for campaign-related features in '),
+          text(context, '\n\nAt Delivery Hero, I worked on the backend for campaign-related features in '),
           link(context, 'Foodpanda', 'https://foodpanda.com'),
           text(context, ' and '),
           link(context, 'Foodora', 'https://foodora.com'),
