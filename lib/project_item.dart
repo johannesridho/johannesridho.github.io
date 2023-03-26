@@ -27,6 +27,7 @@ class ProjectItem extends StatelessWidget {
               ListTile(
                 title: Text(title),
                 subtitle: Text(subtitle),
+                isThreeLine: true,
               ),
             ],
           ),
