@@ -1,17 +1,23 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_web_plugins/url_strategy.dart';
 import 'package:go_router/go_router.dart';
-import 'package:jortp/projects/gasing_battle.dart';
 
 import 'achievements.dart';
 import 'experiences.dart';
 import 'home.dart';
 import 'projects.dart';
+import 'projects/aident.dart';
 import 'projects/ceki.dart';
+import 'projects/clovero.dart';
 import 'projects/comet.dart';
+import 'projects/eyve.dart';
 import 'projects/fp_campaign.dart';
+import 'projects/gasing_battle.dart';
+import 'projects/gasing_evo.dart';
 import 'projects/novus.dart';
 import 'projects/pandoraverse.dart';
+import 'projects/patrons.dart';
+import 'projects/qololo.dart';
 
 class CustomImageCache extends WidgetsFlutterBinding {
   @override
@@ -107,6 +113,42 @@ class MyApp extends StatelessWidget {
                     path: 'novus',
                     builder: (BuildContext context, GoRouterState state) {
                       return const Novus();
+                    },
+                  ),
+                  GoRoute(
+                    path: 'eyve',
+                    builder: (BuildContext context, GoRouterState state) {
+                      return const Eyve();
+                    },
+                  ),
+                  GoRoute(
+                    path: 'aident',
+                    builder: (BuildContext context, GoRouterState state) {
+                      return const Aident();
+                    },
+                  ),
+                  GoRoute(
+                    path: 'patrons',
+                    builder: (BuildContext context, GoRouterState state) {
+                      return const Patrons();
+                    },
+                  ),
+                  GoRoute(
+                    path: 'gasing-evo',
+                    builder: (BuildContext context, GoRouterState state) {
+                      return const GasingEVO();
+                    },
+                  ),
+                  GoRoute(
+                    path: 'qololo',
+                    builder: (BuildContext context, GoRouterState state) {
+                      return const Qololo();
+                    },
+                  ),
+                  GoRoute(
+                    path: 'clovero',
+                    builder: (BuildContext context, GoRouterState state) {
+                      return const Clovero();
                     },
                   )
                 ],

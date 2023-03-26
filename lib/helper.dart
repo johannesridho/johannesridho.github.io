@@ -59,3 +59,19 @@ Widget projectDetailImage(String fileName) {
     ),
   );
 }
+
+SelectableText projectDetailCodeAndTech(BuildContext context, String codeText, String codeURL, String technologies) {
+  List<InlineSpan> children = [];
+  if (codeText.isNotEmpty) {
+    children.add(text(context, 'Code: '));
+    children.add(link(context, codeText, codeURL));
+    children.add(text(context, '\n'));
+  }
+
+  children.add(text(context, 'Technologies: $technologies'));
+
+  return SelectableText.rich(
+    textAlign: TextAlign.justify,
+    TextSpan(children: children),
+  );
+}
