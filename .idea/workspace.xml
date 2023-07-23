@@ -5,8 +5,160 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3436e95d-72f7-46d3-b65b-3feb807ed685" name="Changes" comment="Add v2 files">
-      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/v1/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/404/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/v1/404/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/_headers" beforeDir="false" afterPath="$PROJECT_DIR$/v1/_headers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/achievements/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/v1/achievements/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/aident/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/v1/aident/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/app-cdd74fe59e84600e26bf.js" beforeDir="false" afterPath="$PROJECT_DIR$/v1/app-cdd74fe59e84600e26bf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/app-cdd74fe59e84600e26bf.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/v1/app-cdd74fe59e84600e26bf.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/3cc017306ebe4e02ee98198889e1d2d5/_composite.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/3cc017306ebe4e02ee98198889e1d2d5/gen_dart_plugin_registrant.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/3cc017306ebe4e02ee98198889e1d2d5/gen_localizations.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/ade00fc64fa695e0daed02c1105f6d67.cache.dill.track.dill" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/bb3c86ae3b36a7ff023fa7ae632dd54f/_composite.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/bb3c86ae3b36a7ff023fa7ae632dd54f/gen_dart_plugin_registrant.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/bb3c86ae3b36a7ff023fa7ae632dd54f/gen_localizations.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/c075001b96339384a97db4862b8ab8db.cache.dill.track.dill" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/AssetManifest.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/AssetManifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/FontManifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/NOTICES" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/icons/email.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/icons/github.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/icons/leetcode.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/icons/lichess.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/icons/linkedin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/images/achievements/aws-hackdays-2019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/images/achievements/bni-hackfest-malang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/images/achievements/dh-hackathon-2021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/images/achievements/f8-2019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/images/achievements/startgaming.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/images/achievements/united-by-hcl.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/images/background.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/images/experiences/call-levels.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/images/experiences/fp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/images/experiences/kaspay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/images/photo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/images/project_thumbnails/aident.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/images/project_thumbnails/campaign.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/images/project_thumbnails/ceki.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/images/project_thumbnails/clovero.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/images/project_thumbnails/comet.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/images/project_thumbnails/eyve.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/images/project_thumbnails/gasing-battle.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/images/project_thumbnails/gasing-evo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/images/project_thumbnails/novus.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/images/project_thumbnails/pandoraverse.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/images/project_thumbnails/patrons.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/images/project_thumbnails/qololo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/images/projects/campaign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/images/projects/comet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/images/projects/gasing-battle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/images/projects/gasing-evo-menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/images/projects/gasing-evo-ultimate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/images/projects/novus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/images/projects/qololo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/flutter_assets/shaders/ink_sparkle.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/.last_build_id" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/AssetManifest.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/AssetManifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/FontManifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/NOTICES" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/icons/email.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/icons/github.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/icons/leetcode.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/icons/lichess.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/icons/linkedin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/images/achievements/aws-hackdays-2019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/images/achievements/bni-hackfest-malang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/images/achievements/dh-hackathon-2021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/images/achievements/f8-2019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/images/achievements/startgaming.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/images/achievements/united-by-hcl.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/images/background.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/images/experiences/call-levels.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/images/experiences/fp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/images/experiences/kaspay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/images/photo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/images/project_thumbnails/aident.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/images/project_thumbnails/campaign.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/images/project_thumbnails/ceki.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/images/project_thumbnails/clovero.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/images/project_thumbnails/comet.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/images/project_thumbnails/eyve.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/images/project_thumbnails/gasing-battle.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/images/project_thumbnails/gasing-evo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/images/project_thumbnails/novus.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/images/project_thumbnails/pandoraverse.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/images/project_thumbnails/patrons.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/images/project_thumbnails/qololo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/images/projects/campaign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/images/projects/comet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/images/projects/gasing-battle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/images/projects/gasing-evo-menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/images/projects/gasing-evo-ultimate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/images/projects/novus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/images/projects/qololo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/assets/shaders/ink_sparkle.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/canvaskit/canvaskit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/canvaskit/canvaskit.wasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/canvaskit/chromium/canvaskit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/canvaskit/chromium/canvaskit.wasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/canvaskit/profiling/canvaskit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/canvaskit/profiling/canvaskit.wasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/canvaskit/skwasm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/canvaskit/skwasm.wasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/canvaskit/skwasm.worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/flutter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/flutter_service_worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/icons/Icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/icons/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/main.dart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/build/web/version.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/ceki/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/v1/ceki/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/chunk-map.json" beforeDir="false" afterPath="$PROJECT_DIR$/v1/chunk-map.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/clovero/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/v1/clovero/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/comet/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/v1/comet/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/experiences/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/v1/experiences/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/eyve/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/v1/eyve/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/foodpanda-campaign-carousel/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/v1/foodpanda-campaign-carousel/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/gasing-battle/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/v1/gasing-battle/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/gasing-evo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/v1/gasing-evo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/v1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/manifest.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/v1/manifest.webmanifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/novus/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/v1/novus/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/offline-plugin-app-shell-fallback/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/v1/offline-plugin-app-shell-fallback/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/page-data/achievements/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/v1/page-data/achievements/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/page-data/aident/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/v1/page-data/aident/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/page-data/ceki/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/v1/page-data/ceki/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/page-data/clovero/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/v1/page-data/clovero/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/page-data/comet/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/v1/page-data/comet/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/page-data/experiences/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/v1/page-data/experiences/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/page-data/eyve/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/v1/page-data/eyve/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/page-data/foodpanda-campaign-carousel/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/v1/page-data/foodpanda-campaign-carousel/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/page-data/gasing-battle/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/v1/page-data/gasing-battle/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/page-data/gasing-evo/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/v1/page-data/gasing-evo/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/page-data/index/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/v1/page-data/index/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/page-data/novus/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/v1/page-data/novus/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/page-data/pandoraverse/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/v1/page-data/pandoraverse/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/page-data/patrons/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/v1/page-data/patrons/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/page-data/projects/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/v1/page-data/projects/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/page-data/qololo/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/v1/page-data/qololo/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/page-data/sq/d/2812560700.json" beforeDir="false" afterPath="$PROJECT_DIR$/v1/page-data/sq/d/2812560700.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/page-data/talks/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/v1/page-data/talks/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/pandoraverse/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/v1/pandoraverse/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/patrons/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/v1/patrons/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/projects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/v1/projects/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/qololo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/v1/qololo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/rss.xml" beforeDir="false" afterPath="$PROJECT_DIR$/v1/rss.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/styles.c2e06298a42b049313eb.css" beforeDir="false" afterPath="$PROJECT_DIR$/v1/styles.c2e06298a42b049313eb.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/talks/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/v1/talks/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,34 +203,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
-    "RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "dart.analysis.tool.window.visible": "false",
-    "go.import.settings.migrated": "true",
-    "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "/Users/jo/project/johannesridho.github.io",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.standard": "true",
-    "node.js.detected.package.stylelint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.standard": "",
-    "node.js.selected.package.stylelint": "/Users/jo/project/johannesridho.github.io/node_modules/stylelint",
-    "nodejs_package_manager_path": "yarn",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "ts.external.directory.path": "/Applications/GoLand.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jo/project/johannesridho.github.io&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;/Users/jo/project/johannesridho.github.io/node_modules/stylelint&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/GoLand.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />

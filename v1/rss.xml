@@ -9,7 +9,7 @@ With this app, we won the Most Innovative and the Best Presentation award at Del
 and Foodora. One of them is Campaign Carousel. This project…]]></description><link>https://jortp.com/foodpanda-campaign-carousel/</link><guid isPermaLink="false">https://jortp.com/foodpanda-campaign-carousel/</guid><pubDate>Fri, 31 Dec 2032 16:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/422fcbe7b7b8787c938599b06a53b47b/f2f8c/campaign2.png&quot;
+    href=&quot;/v1/static/422fcbe7b7b8787c938599b06a53b47b/f2f8c/campaign2.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -28,12 +28,12 @@ and Foodora. One of them is Campaign Carousel. This project…]]></description><
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;campaign&quot;
         title=&quot;&quot;
-        src=&quot;/static/422fcbe7b7b8787c938599b06a53b47b/5a190/campaign2.png&quot;
-        srcset=&quot;/static/422fcbe7b7b8787c938599b06a53b47b/772e8/campaign2.png 200w,
-/static/422fcbe7b7b8787c938599b06a53b47b/e17e5/campaign2.png 400w,
-/static/422fcbe7b7b8787c938599b06a53b47b/5a190/campaign2.png 800w,
-/static/422fcbe7b7b8787c938599b06a53b47b/c1b63/campaign2.png 1200w,
-/static/422fcbe7b7b8787c938599b06a53b47b/f2f8c/campaign2.png 1490w&quot;
+        src=&quot;/v1/static/422fcbe7b7b8787c938599b06a53b47b/5a190/campaign2.png&quot;
+        srcset=&quot;/v1/static/422fcbe7b7b8787c938599b06a53b47b/772e8/campaign2.png 200w,
+/v1/static/422fcbe7b7b8787c938599b06a53b47b/e17e5/campaign2.png 400w,
+/v1/static/422fcbe7b7b8787c938599b06a53b47b/5a190/campaign2.png 800w,
+/v1/static/422fcbe7b7b8787c938599b06a53b47b/c1b63/campaign2.png 1200w,
+/v1/static/422fcbe7b7b8787c938599b06a53b47b/f2f8c/campaign2.png 1490w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -75,7 +75,7 @@ Beanstalk, S3, Lambda) &lt;/p&gt;</content:encoded></item><item><title><![CDATA[
 This project was selected as the top 4 at Blockchain category…]]></description><link>https://jortp.com/comet/</link><guid isPermaLink="false">https://jortp.com/comet/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/173738f49e942647fd96f0553db9e164/d126d/comet-logo.png&quot;
+    href=&quot;/v1/static/173738f49e942647fd96f0553db9e164/d126d/comet-logo.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -94,13 +94,13 @@ This project was selected as the top 4 at Blockchain category…]]></description
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;comet&quot;
         title=&quot;&quot;
-        src=&quot;/static/173738f49e942647fd96f0553db9e164/5a190/comet-logo.png&quot;
-        srcset=&quot;/static/173738f49e942647fd96f0553db9e164/772e8/comet-logo.png 200w,
-/static/173738f49e942647fd96f0553db9e164/e17e5/comet-logo.png 400w,
-/static/173738f49e942647fd96f0553db9e164/5a190/comet-logo.png 800w,
-/static/173738f49e942647fd96f0553db9e164/c1b63/comet-logo.png 1200w,
-/static/173738f49e942647fd96f0553db9e164/29007/comet-logo.png 1600w,
-/static/173738f49e942647fd96f0553db9e164/d126d/comet-logo.png 1927w&quot;
+        src=&quot;/v1/static/173738f49e942647fd96f0553db9e164/5a190/comet-logo.png&quot;
+        srcset=&quot;/v1/static/173738f49e942647fd96f0553db9e164/772e8/comet-logo.png 200w,
+/v1/static/173738f49e942647fd96f0553db9e164/e17e5/comet-logo.png 400w,
+/v1/static/173738f49e942647fd96f0553db9e164/5a190/comet-logo.png 800w,
+/v1/static/173738f49e942647fd96f0553db9e164/c1b63/comet-logo.png 1200w,
+/v1/static/173738f49e942647fd96f0553db9e164/29007/comet-logo.png 1600w,
+/v1/static/173738f49e942647fd96f0553db9e164/d126d/comet-logo.png 1927w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -132,7 +132,7 @@ other people’s Augmented Reality contents attached to
 the objects around their location…]]></description><link>https://jortp.com/novus/</link><guid isPermaLink="false">https://jortp.com/novus/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/edb249a742f7f236a8a8b8e11f96e632/9c4fe/logotype.png&quot;
+    href=&quot;/v1/static/edb249a742f7f236a8a8b8e11f96e632/9c4fe/logotype.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -151,13 +151,13 @@ the objects around their location…]]></description><link>https://jortp.com/nov
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;Novus&quot;
         title=&quot;&quot;
-        src=&quot;/static/edb249a742f7f236a8a8b8e11f96e632/5a190/logotype.png&quot;
-        srcset=&quot;/static/edb249a742f7f236a8a8b8e11f96e632/772e8/logotype.png 200w,
-/static/edb249a742f7f236a8a8b8e11f96e632/e17e5/logotype.png 400w,
-/static/edb249a742f7f236a8a8b8e11f96e632/5a190/logotype.png 800w,
-/static/edb249a742f7f236a8a8b8e11f96e632/c1b63/logotype.png 1200w,
-/static/edb249a742f7f236a8a8b8e11f96e632/29007/logotype.png 1600w,
-/static/edb249a742f7f236a8a8b8e11f96e632/9c4fe/logotype.png 2369w&quot;
+        src=&quot;/v1/static/edb249a742f7f236a8a8b8e11f96e632/5a190/logotype.png&quot;
+        srcset=&quot;/v1/static/edb249a742f7f236a8a8b8e11f96e632/772e8/logotype.png 200w,
+/v1/static/edb249a742f7f236a8a8b8e11f96e632/e17e5/logotype.png 400w,
+/v1/static/edb249a742f7f236a8a8b8e11f96e632/5a190/logotype.png 800w,
+/v1/static/edb249a742f7f236a8a8b8e11f96e632/c1b63/logotype.png 1200w,
+/v1/static/edb249a742f7f236a8a8b8e11f96e632/29007/logotype.png 1600w,
+/v1/static/edb249a742f7f236a8a8b8e11f96e632/9c4fe/logotype.png 2369w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -193,7 +193,7 @@ voice command, and remote play. &lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/b22569697c45daee9c960b2af89804b4/5a190/gasing-evo-ultimate.png&quot;
+    href=&quot;/v1/static/b22569697c45daee9c960b2af89804b4/5a190/gasing-evo-ultimate.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -212,10 +212,10 @@ voice command, and remote play. &lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;gasing-evo-ultimate&quot;
         title=&quot;&quot;
-        src=&quot;/static/b22569697c45daee9c960b2af89804b4/5a190/gasing-evo-ultimate.png&quot;
-        srcset=&quot;/static/b22569697c45daee9c960b2af89804b4/772e8/gasing-evo-ultimate.png 200w,
-/static/b22569697c45daee9c960b2af89804b4/e17e5/gasing-evo-ultimate.png 400w,
-/static/b22569697c45daee9c960b2af89804b4/5a190/gasing-evo-ultimate.png 800w&quot;
+        src=&quot;/v1/static/b22569697c45daee9c960b2af89804b4/5a190/gasing-evo-ultimate.png&quot;
+        srcset=&quot;/v1/static/b22569697c45daee9c960b2af89804b4/772e8/gasing-evo-ultimate.png 200w,
+/v1/static/b22569697c45daee9c960b2af89804b4/e17e5/gasing-evo-ultimate.png 400w,
+/v1/static/b22569697c45daee9c960b2af89804b4/5a190/gasing-evo-ultimate.png 800w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -228,7 +228,7 @@ Indonesia ICT Awards 2014.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/30c156925af2091af3bcda75c199a860/21b4d/gasing-evo-menu.png&quot;
+    href=&quot;/v1/static/30c156925af2091af3bcda75c199a860/21b4d/gasing-evo-menu.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -247,12 +247,12 @@ Indonesia ICT Awards 2014.&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;gasing-evo-menu&quot;
         title=&quot;&quot;
-        src=&quot;/static/30c156925af2091af3bcda75c199a860/5a190/gasing-evo-menu.png&quot;
-        srcset=&quot;/static/30c156925af2091af3bcda75c199a860/772e8/gasing-evo-menu.png 200w,
-/static/30c156925af2091af3bcda75c199a860/e17e5/gasing-evo-menu.png 400w,
-/static/30c156925af2091af3bcda75c199a860/5a190/gasing-evo-menu.png 800w,
-/static/30c156925af2091af3bcda75c199a860/c1b63/gasing-evo-menu.png 1200w,
-/static/30c156925af2091af3bcda75c199a860/21b4d/gasing-evo-menu.png 1280w&quot;
+        src=&quot;/v1/static/30c156925af2091af3bcda75c199a860/5a190/gasing-evo-menu.png&quot;
+        srcset=&quot;/v1/static/30c156925af2091af3bcda75c199a860/772e8/gasing-evo-menu.png 200w,
+/v1/static/30c156925af2091af3bcda75c199a860/e17e5/gasing-evo-menu.png 400w,
+/v1/static/30c156925af2091af3bcda75c199a860/5a190/gasing-evo-menu.png 800w,
+/v1/static/30c156925af2091af3bcda75c199a860/c1b63/gasing-evo-menu.png 1200w,
+/v1/static/30c156925af2091af3bcda75c199a860/21b4d/gasing-evo-menu.png 1280w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -266,7 +266,7 @@ a traditional toy from Indonesia, to battle with another player
 by…]]></description><link>https://jortp.com/gasing-battle/</link><guid isPermaLink="false">https://jortp.com/gasing-battle/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/b8f35cbf27b9b027a6bb7825c3c898d9/2bef9/gasing-battle-2.png&quot;
+    href=&quot;/v1/static/b8f35cbf27b9b027a6bb7825c3c898d9/2bef9/gasing-battle-2.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -285,11 +285,11 @@ by…]]></description><link>https://jortp.com/gasing-battle/</link><guid isPerma
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;gasing-battle&quot;
         title=&quot;&quot;
-        src=&quot;/static/b8f35cbf27b9b027a6bb7825c3c898d9/5a190/gasing-battle-2.png&quot;
-        srcset=&quot;/static/b8f35cbf27b9b027a6bb7825c3c898d9/772e8/gasing-battle-2.png 200w,
-/static/b8f35cbf27b9b027a6bb7825c3c898d9/e17e5/gasing-battle-2.png 400w,
-/static/b8f35cbf27b9b027a6bb7825c3c898d9/5a190/gasing-battle-2.png 800w,
-/static/b8f35cbf27b9b027a6bb7825c3c898d9/2bef9/gasing-battle-2.png 1024w&quot;
+        src=&quot;/v1/static/b8f35cbf27b9b027a6bb7825c3c898d9/5a190/gasing-battle-2.png&quot;
+        srcset=&quot;/v1/static/b8f35cbf27b9b027a6bb7825c3c898d9/772e8/gasing-battle-2.png 200w,
+/v1/static/b8f35cbf27b9b027a6bb7825c3c898d9/e17e5/gasing-battle-2.png 400w,
+/v1/static/b8f35cbf27b9b027a6bb7825c3c898d9/5a190/gasing-battle-2.png 800w,
+/v1/static/b8f35cbf27b9b027a6bb7825c3c898d9/2bef9/gasing-battle-2.png 1024w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -315,7 +315,7 @@ This project is my first attempt in doing a startup.
 In the end, we have 89 users, 16…]]></description><link>https://jortp.com/qololo/</link><guid isPermaLink="false">https://jortp.com/qololo/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/c8c4f6562f81d1de768a8e7fb16a5fa9/19bb3/how-it-works.png&quot;
+    href=&quot;/v1/static/c8c4f6562f81d1de768a8e7fb16a5fa9/19bb3/how-it-works.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -334,13 +334,13 @@ In the end, we have 89 users, 16…]]></description><link>https://jortp.com/qolo
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;how it works&quot;
         title=&quot;&quot;
-        src=&quot;/static/c8c4f6562f81d1de768a8e7fb16a5fa9/5a190/how-it-works.png&quot;
-        srcset=&quot;/static/c8c4f6562f81d1de768a8e7fb16a5fa9/772e8/how-it-works.png 200w,
-/static/c8c4f6562f81d1de768a8e7fb16a5fa9/e17e5/how-it-works.png 400w,
-/static/c8c4f6562f81d1de768a8e7fb16a5fa9/5a190/how-it-works.png 800w,
-/static/c8c4f6562f81d1de768a8e7fb16a5fa9/c1b63/how-it-works.png 1200w,
-/static/c8c4f6562f81d1de768a8e7fb16a5fa9/29007/how-it-works.png 1600w,
-/static/c8c4f6562f81d1de768a8e7fb16a5fa9/19bb3/how-it-works.png 2066w&quot;
+        src=&quot;/v1/static/c8c4f6562f81d1de768a8e7fb16a5fa9/5a190/how-it-works.png&quot;
+        srcset=&quot;/v1/static/c8c4f6562f81d1de768a8e7fb16a5fa9/772e8/how-it-works.png 200w,
+/v1/static/c8c4f6562f81d1de768a8e7fb16a5fa9/e17e5/how-it-works.png 400w,
+/v1/static/c8c4f6562f81d1de768a8e7fb16a5fa9/5a190/how-it-works.png 800w,
+/v1/static/c8c4f6562f81d1de768a8e7fb16a5fa9/c1b63/how-it-works.png 1200w,
+/v1/static/c8c4f6562f81d1de768a8e7fb16a5fa9/29007/how-it-works.png 1600w,
+/v1/static/c8c4f6562f81d1de768a8e7fb16a5fa9/19bb3/how-it-works.png 2066w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
