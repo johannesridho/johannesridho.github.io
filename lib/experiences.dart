@@ -24,7 +24,7 @@ class Experience extends StatelessWidget {
           text(
               context,
               ".\n\nOne of our biggest goals at Booking.com is to build the connected trip. We want to enable customers "
-              "to order combinations of products (hotels, flights, attractions, taxis, insurance, and rental cars) in "
+              "to book a combination of products (hotels, flights, attractions, taxis, insurance, and rental cars) in "
               "a single trip."
               "\n\nMy current team, Order Platform, contributes to this goal by integrating orders across multiple "
               "products. There are thousands of orders a day. And what makes it more challenging is we have "
@@ -44,9 +44,7 @@ class Experience extends StatelessWidget {
               context,
               " is one of the best technology consultancies in the world, with more than "
               "12.000 employees in 18 countries. Thoughtworkers are famous for their ability to deliver "
-              "high-quality software."
-              "\n\nAt Thoughtworks, I learnt a lot about Agile and Feedback culture. I also learnt how to do Pair "
-              "Programming, Test-driven Development (TDD), and Trunk-based Development the right way."),
+              "high-quality software."),
         ],
       ),
       Section(
