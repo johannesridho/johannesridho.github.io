@@ -13,7 +13,7 @@ tags:
 - AWS SNS
 - AWS SQS
 videoUrl: https://www.youtube.com/embed/lH1kYKF1V0E
-thumbnail: /src/content/projects/foodpanda-campaign-carousel/campaign.webp
+thumbnail: /images/campaign.webp
 ---
 
 In Delivery Hero, I am working on campaign related features in [Foodpanda](https://www.foodpanda.com) 

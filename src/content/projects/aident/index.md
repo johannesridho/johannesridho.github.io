@@ -17,7 +17,7 @@ tags:
 - AWS Lambda
 repoUrl: https://github.com/johannesridho/aident
 videoUrl: https://www.youtube.com/embed/ouTdvoKeZaE
-thumbnail: /src/content/projects/aident/aident.webp
+thumbnail: /images/aident.webp
 ---
 
 Aident detects crime behaviours and recognises criminal suspects in videos by using AWS technology. This project won the 1st place in AWS Hackdays 2019 Indonesia.

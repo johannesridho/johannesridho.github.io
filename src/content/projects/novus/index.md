@@ -12,7 +12,7 @@ tags:
 - Facebook
 repoUrl: https://github.com/johannesridho/novus
 videoUrl: https://www.youtube.com/embed/TXMKEuwq9Lo
-thumbnail: /src/content/projects/novus/novus.webp
+thumbnail: /images/novus.webp
 ---
 
 Novus is a new social network where people can see other people’s Augmented Reality contents attached to the objects around their location. Novus was built to drive people to go outside and do more offline interaction with other people around their location. It can lead people to form a new community, based on contents and interests around their location. My team built Novus in F8 Hackathon 2018.

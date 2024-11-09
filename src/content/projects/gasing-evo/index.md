@@ -13,7 +13,7 @@ tags:
 demoUrl: https://drive.google.com/file/d/0B1mLLYFP7gLKM1hxSkRKVlQwdHc/view?usp=sharing
 repoUrl: https://github.com/johannesridho/gasing-evo
 videoUrl: https://www.youtube.com/embed/e_IJqNmhdGA
-thumbnail: /src/content/projects/gasing-evo/gasing-evo.webp
+thumbnail: /images/gasing-evo.webp
 ---
 
 Gasing EVO is an action arcade game for mobile and PC made to mimic Indonesian traditional game “Gasing”.

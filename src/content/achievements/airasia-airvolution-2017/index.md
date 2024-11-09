@@ -5,10 +5,10 @@ date: "19 Mar 2017"
 draft: false
 tags:
 - hackathon
-thumbnail: /src/content/achievements/airasia-airvolution-2017/airvolution.jpg
+thumbnail: /images/airvolution.jpg
 ---
 
-![airvolution](./airvolution.jpg)
+![airvolution](/images/airvolution.jpg)
 
 AirAsia Airvolution Hackathon 2017 is the first hackathon organised by [AirAsia](https://airasia.com). My team was selected to represent Indonesia to compete with the other 20 teams from other countries.
 

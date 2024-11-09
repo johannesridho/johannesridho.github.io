@@ -17,7 +17,7 @@ tags:
 - AWS Lambda
 repoUrl: https://github.com/Fakhri/eyve
 videoUrl: https://www.youtube.com/embed/z-6UOWPExp8
-thumbnail: /src/content/projects/eyve/eyve.webp
+thumbnail: /images/eyve.webp
 ---
 
 Eyve is built to protect people with visual impairments in their daily life with computer vision and voice recognition. This project won the 3rd place in AWS Hackdays Final Hackathon 2019.

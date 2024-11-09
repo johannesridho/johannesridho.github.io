@@ -8,7 +8,7 @@ tags:
 - web
 - Wordpress
 - PHP
-thumbnail: /src/content/projects/qololo/qololo.webp
+thumbnail: /images/qololo.webp
 ---
 
 ![how it works](./how-it-works.png)

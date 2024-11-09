@@ -10,7 +10,7 @@ tags:
 - Java
 - AndEngine
 demoUrl: https://drive.google.com/file/d/1rjXPaRGmCIqiEOlesXHBp7L1HozSJ_5z/view
-thumbnail: /src/content/projects/gasing-battle/gasing-battle.webp
+thumbnail: /images/gasing-battle.webp
 ---
 
 ![gasing-battle](./gasing-battle-2.png)

@@ -6,10 +6,10 @@ draft: false
 tags:
 - hackathon
 demoUrl: /projects/ceki
-thumbnail: /src/content/achievements/bni-hackfest-malang-2017/hackfest.jpg
+thumbnail: /images/hackfest.jpg
 ---
 
-![hackfest](./hackfest.jpg)
+![hackfest](/images/hackfest.jpg)
 
 In this competition, my team built the second version of Ceki and we got the 2nd winner award.
 
