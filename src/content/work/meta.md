@@ -8,4 +8,4 @@ dateEnd: "Present"
 ![meta](./images/meta.webp)
 
 At Meta, I'm working in Serverless Computing team. 
-The team's Async Tier platform processes more than 20 trillion job executions daily.
+The team's Async Tier platform processes more than 20 trillion job executions daily. Read more about it [here](https://engineering.fb.com/2023/12/19/core-infra/how-meta-built-the-infrastructure-for-threads).

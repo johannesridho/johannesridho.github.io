@@ -20,9 +20,4 @@ videoUrl: https://www.youtube.com/embed/ouTdvoKeZaE
 thumbnail: /images/aident.webp
 ---
 
-Aident detects crime behaviours and recognises criminal suspects in videos by using AWS technology. This project won the 1st place in AWS Hackdays 2019 Indonesia.
-
-News coverage:
-- https://aws.amazon.com/blogs/startups/hack-for-good-winner-2019
-- https://dailysocial.id/wire/kembangkan-aident-sebagai-solusi-pendeteksi-kejahatan-tim-patrons-menangkan-aws-hackdays-2019-indonesia
-- https://www.tribunnews.com/techno/2019/04/28/aident-solusi-pendeteksi-kejahatan
+Aident detects crime behaviours and recognises criminal suspects in videos by using AWS technology. This project won the [1st place in AWS Hackdays 2019 Indonesia](/achievements/aws-hackdays-2019).
