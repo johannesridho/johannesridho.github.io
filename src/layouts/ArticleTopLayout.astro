@@ -7,7 +7,7 @@ type Props = {
 }
 
 const { entry } = Astro.props
-const { collection, data, body } = entry
+const { collection, data } = entry
 const { title, summary, date } = data
 
 const demoUrl = collection === "projects" || collection === "achievements" ? data.demoUrl : null
