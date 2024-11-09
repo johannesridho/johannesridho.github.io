@@ -1,0 +1,30 @@
+---
+import { getCollection } from "astro:content"
+import PageLayout from "@layouts/PageLayout.astro"
+import TopLayout from "@layouts/TopLayout.astro"
+import BottomLayout from "@layouts/BottomLayout.astro"
+import Achievements from "@components/Achievements"
+import { ACHIEVEMENTS } from "@consts"
+
+const achievements = (await getCollection("achievements"))
+  .filter(achievement => !achievement.data.draft)
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
+
+const tags = [...new Set(achievements.flatMap(achievement => achievement.data.tags))]
+  .sort((a, b) => a.localeCompare(b))
+---
+
+<PageLayout title={ACHIEVEMENTS.TITLE} description={ACHIEVEMENTS.DESCRIPTION}>
+  <TopLayout>
+    <div class="animate page-heading">
+      {ACHIEVEMENTS.TITLE}
+    </div>
+  </TopLayout>
+  <BottomLayout>
+    <div class="animate">
+      <Achievements client:load tags={tags} data={achievements} />
+    </div>
+  </BottomLayout>
+</PageLayout>
+
+

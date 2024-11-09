@@ -1,0 +1,77 @@
+---
+import { getCollection } from "astro:content"
+import PageLayout from "@layouts/PageLayout.astro"
+import { SITE, SOCIALS } from "@consts"
+// import TwinklingStars from "@components/TwinklingStars.astro"
+// import MeteorShower from "@components/MeteorShower.astro"
+
+const posts = (await getCollection("blog"))
+  .filter(post => !post.data.draft)
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
+  .slice(0,3)
+
+const projects = (await getCollection("projects"))
+  .filter(project => !project.data.draft)
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
+  .slice(0,3)
+
+const achievements = (await getCollection("achievements"))
+  .filter(achievement => !achievement.data.draft)
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
+  .slice(0,3)
+
+---
+
+<PageLayout title="Home" description={SITE.DESCRIPTION}>
+
+  <!-- disable stars animation -->
+
+  <!-- Light Mode: Particles -->
+  <!-- <div class='absolute inset-0 block dark:hidden'>
+    <div id='particles1' class='fixed inset-0'></div>
+    <div id='particles2' class='fixed inset-0'></div>
+    <div id='particles3' class='fixed inset-0'></div>
+  </div> -->
+
+  <!-- Dark Theme: Stars -->
+  <!-- <div class='absolute inset-0 bg-black hidden dark:block'>
+    <div id='stars1' class='fixed inset-0'></div>
+    <div id='stars2' class='fixed inset-0'></div>
+    <div id='stars3' class='fixed inset-0'></div>
+  </div> -->
+
+  <!-- Dark Theme: Twinkling Stars / Meteors -->
+  <!-- <div id="galaxy" class="fixed inset-0">
+    <div class="hidden dark:block">
+      <TwinklingStars/>
+      <MeteorShower/>
+    </div>
+  </div> -->
+
+  <!-- <script is:inline src="/js/bg.js"></script> -->
+
+  
+  <!-- HERO -->
+  <section class="relative h-screen w-full">
+    <div id="planetcont" class='animate absolute inset-0 top-1/4 overflow-hidden'>
+      <div id="crescent" class='absolute top-0 left-1/2 -translate-x-1/2 w-[250vw] min-h-[100vh] aspect-square rounded-full p-[1px] bg-gradient-to-b from-black/25 dark:from-white/75 from-0% to-transparent to-5%'>
+        <div id="planet" class='w-full h-full bg-white dark:bg-black rounded-full p-[1px] overflow-hidden flex justify-center'>
+          <div id="blur" class='w-full h-20 rounded-full bg-green-900/25 dark:bg-white/25 blur-3xl'/>
+        </div>
+      </div>
+    </div>
+    <div class="animate absolute h-full w-full flex items-center justify-center">
+      <div class='relative w-full h-full flex items-center justify-center'>
+        <div class='p-5 text-center'>
+          <p class='animated text-2xl md:text-3xl lg:text-4xl text-black dark:text-white'>
+            Johannes Ridho Tumpuan Parlindungan
+          </p>
+          <p class='animated text-sm md:text-base lg:text-lg opacity-75'>
+            A software engineer experienced in backend (Go, Java, Python, Node.js, Spring Framework), infrastructure (Google Cloud Platform and Amazon Web Services), data engineering (Google Dataflow, Google BigQuery, Apache Airflow), virtual and augmented reality, blockchain, and game development
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</PageLayout>
