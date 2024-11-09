@@ -19,7 +19,9 @@ export default function ArrowCard({entry, pill}: Props) {
           <div class="text-sm">
             {formatDate(entry.data.date)}
           </div>
-          <img src={entry.data.thumbnail} alt={entry.data.title.toLowerCase()}/>
+          {entry.data.thumbnail && 
+            <img src={entry.data.thumbnail} alt={entry.data.title.toLowerCase()}/>
+          }
         </div>
         <div class="font-semibold mt-3 text-black dark:text-white">
           {entry.data.title}
