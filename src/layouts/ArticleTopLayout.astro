@@ -11,7 +11,7 @@ const { collection, data } = entry
 const { title, summary, date } = data
 
 const demoUrl = collection === "projects" || collection === "achievements" ? data.demoUrl : null
-const repoUrl = collection === "projects" ? data.repoUrl : null
+const repoUrl = collection === "projects" || collection === "achievements" ? data.repoUrl : null
 ---
 
 <div>

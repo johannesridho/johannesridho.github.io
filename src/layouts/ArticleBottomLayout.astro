@@ -18,7 +18,7 @@ const index = items.findIndex(x => x.slug === entry.slug)
 const prev = items[(index - 1 + items.length) % items.length]
 const next = items[(index + 1) % items.length]
 
-const videoUrl = collection === "projects" ? data.videoUrl : null
+const videoUrl = collection === "projects" || collection === "achievements" ? data.videoUrl : null
 ---
 
 <div>
